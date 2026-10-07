@@ -1,0 +1,64 @@
+{
+  "model": "Decision Tree",
+  "task": "multiclass",
+  "best_params": {
+    "clf__criterion": "gini",
+    "clf__max_depth": 5,
+    "clf__min_samples_leaf": 10
+  },
+  "n_train": 382,
+  "n_test": 96,
+  "cv_accuracy_mean": 0.5156545209176789,
+  "cv_accuracy_sd": 0.08755235160175344,
+  "cv_macro_f1_mean": 0.32621908869659066,
+  "cv_macro_f1_sd": 0.10040787055631988,
+  "test": {
+    "accuracy": 0.5833333333333334,
+    "macro_f1": 0.43118658655676384,
+    "weighted_f1": 0.6338654683284506,
+    "mcc": 0.07699027822615821,
+    "per_class": {
+      "Low": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333333333333333,
+        "support": 2
+      },
+      "Moderate": {
+        "precision": 0.8448275862068966,
+        "recall": 0.620253164556962,
+        "f1": 0.7153284671532847,
+        "support": 79
+      },
+      "High": {
+        "precision": 0.17647058823529413,
+        "recall": 0.4,
+        "f1": 0.24489795918367346,
+        "support": 15
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        1
+      ],
+      [
+        3,
+        49,
+        27
+      ],
+      [
+        0,
+        9,
+        6
+      ]
+    ],
+    "labels": [
+      "Low",
+      "Moderate",
+      "High"
+    ],
+    "roc_auc": 0.6314820459687578
+  }
+}

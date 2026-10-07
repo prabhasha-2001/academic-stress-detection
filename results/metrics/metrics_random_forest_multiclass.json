@@ -1,0 +1,64 @@
+{
+  "model": "Random Forest",
+  "task": "multiclass",
+  "best_params": {
+    "clf__max_depth": 8,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 500
+  },
+  "n_train": 382,
+  "n_test": 96,
+  "cv_accuracy_mean": 0.7539136302294198,
+  "cv_accuracy_sd": 0.05843197658070251,
+  "cv_macro_f1_mean": 0.4487357903039739,
+  "cv_macro_f1_sd": 0.11412942378288508,
+  "test": {
+    "accuracy": 0.75,
+    "macro_f1": 0.35802469135802467,
+    "weighted_f1": 0.7357253086419752,
+    "mcc": 0.07067543066223719,
+    "per_class": {
+      "Low": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 2
+      },
+      "Moderate": {
+        "precision": 0.8313253012048193,
+        "recall": 0.8734177215189873,
+        "f1": 0.8518518518518519,
+        "support": 79
+      },
+      "High": {
+        "precision": 0.25,
+        "recall": 0.2,
+        "f1": 0.2222222222222222,
+        "support": 15
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        2,
+        0
+      ],
+      [
+        1,
+        69,
+        9
+      ],
+      [
+        0,
+        12,
+        3
+      ]
+    ],
+    "labels": [
+      "Low",
+      "Moderate",
+      "High"
+    ],
+    "roc_auc": 0.7145644867113393
+  }
+}

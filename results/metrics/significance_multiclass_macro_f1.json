@@ -1,0 +1,23 @@
+[
+  {
+    "comparison": "logistic_regression vs decision_tree",
+    "mean_diff": 0.08524877371068768,
+    "paired_t_p": 0.07863327651905046,
+    "corrected_t_p": 0.20538721756523262,
+    "5x2cv_accuracy_p": 0.2920731172575182
+  },
+  {
+    "comparison": "logistic_regression vs random_forest",
+    "mean_diff": -0.037267927896695585,
+    "paired_t_p": 0.4529093915911846,
+    "corrected_t_p": 0.6023545999894482,
+    "5x2cv_accuracy_p": 0.0007947403294677109
+  },
+  {
+    "comparison": "decision_tree vs random_forest",
+    "mean_diff": -0.12251670160738326,
+    "paired_t_p": 0.01514578830692721,
+    "corrected_t_p": 0.06954759166614113,
+    "5x2cv_accuracy_p": 0.01119653237422487
+  }
+]
