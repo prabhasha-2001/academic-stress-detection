@@ -4,3 +4,6 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+
+data/interim/cleaned.csv
+data/processed/labeled.csv
