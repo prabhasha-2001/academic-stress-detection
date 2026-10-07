@@ -1,0 +1,23 @@
+flowchart TD
+    A[Raw Survey Data] --> B[Data Collection]
+    B --> C[Data Cleaning]
+    C --> D[Feature Engineering]
+    D --> E[Feature Encoding]
+    E --> F[Data Normalization]
+    F --> G[Stratified 10-Fold Cross Validation]
+    G --> H[Logistic Regression]
+    G --> I[Decision Tree]
+    G --> J[Random Forest]
+    H --> K[Model Comparison]
+    I --> K
+    J --> K
+    K --> L[Performance Evaluation]
+    L --> M[Stress Prediction]
+
+    style A fill:#dbe5f1,stroke:#4a6fa5
+    style H fill:#fff2cc,stroke:#d6b656
+    style I fill:#fff2cc,stroke:#d6b656
+    style J fill:#fff2cc,stroke:#d6b656
+    style K fill:#d5e8d4,stroke:#82b366
+    style L fill:#d5e8d4,stroke:#82b366
+    style M fill:#d5e8d4,stroke:#82b366
