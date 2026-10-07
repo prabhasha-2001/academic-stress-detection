@@ -166,7 +166,6 @@ academic-stress-detection/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 │
 ├── data/
 │   ├── raw/
