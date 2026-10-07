@@ -1,0 +1,479 @@
+TimeStrap,age,gender,university,academic_year,screen_time,study_time,sleep_hours,device_before_sleep,phone_check_studying,weekly_assignments,academic_workload,exam_pressure,academic_satisfaction,exercise,social_activities,pss1,pss2,pss3,pss4,pss5,pss6,pss7,pss8,pss9,pss10,faculty_group,straightline,flag_age_outlier
+2026/07/04 7:58:16 pm GMT+5:30,22.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,4–5,5,5,3,Once a week,Rarely,3,3,1,4,2,3,0,3,1,3,IT,0,0
+2026/07/05 6:40:27 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,5–6 hours,Often,Often,2–3,5,5,3,Never,Rarely,4,4,4,2,1,2,1,4,4,4,IT,0,0
+2026/07/05 3:46:27 pm GMT+5:30,27.0,Male,Horizon Campus,Other,More than 8 hours,Less than 1 hour,Less than 5 hours,Often,Often,2–3,5,5,3,Never,Often,2,4,4,1,0,2,2,1,2,1,IT,0,0
+2026/07/05 5:57:19 pm GMT+5:30,24.0,Female,CINEC Campus,Third Year,4–6 hours,3–4 hours,6–7 hours,Sometimes,Often,0–1,3,4,4,Once a week,Rarely,2,2,1,2,2,2,2,2,3,2,Medicine,0,0
+2026/07/05 6:06:52 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Sometimes,Often,2–3,4,5,3,Once a week,Often,3,3,3,2,3,2,2,2,3,3,IT,0,0
+2026/07/05 6:08:40 pm GMT+5:30,24.0,Female,University of Moratuwa,Fourth Year,2–4 hours,3–4 hours,7–8 hours,Sometimes,Sometimes,2–3,4,1,5,2–3 times a week,Often,1,1,3,3,1,0,3,3,1,0,Technology,0,0
+2026/07/05 6:08:42 pm GMT+5:30,24.0,Female,University of Kelaniya,Fourth Year,2–4 hours,3–4 hours,6–7 hours,Often,Sometimes,2–3,4,5,3,2–3 times a week,Sometimes,3,3,4,3,3,2,2,2,2,3,Humanities_Social_Education,0,0
+2026/07/05 6:09:03 pm GMT+5:30,25.0,Female,Sri Lanka Institute of Information Technology (SLIIT),Third Year,More than 8 hours,More than 6 hours,7–8 hours,Always,Often,4–5,4,5,4,Never,Sometimes,2,2,3,3,3,2,3,2,2,2,Humanities_Social_Education,0,0
+2026/07/05 6:11:37 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,3–4 hours,5–6 hours,Always,Very Often,More than 5,5,5,4,Once a week,Sometimes,4,3,4,4,3,2,4,3,3,4,Technology,0,0
+2026/07/05 6:12:39 pm GMT+5:30,25.0,Female,Rajarata University of Sri Lanka,Other,4–6 hours,3–4 hours,5–6 hours,Often,Often,0–1,5,3,4,Once a week,Sometimes,2,3,3,2,3,2,3,2,3,2,Medicine,0,0
+2026/07/05 6:12:58 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,2–4 hours,3–4 hours,5–6 hours,Always,Often,2–3,2,3,2,Never,Sometimes,1,3,2,1,2,2,3,1,2,2,IT,0,0
+2026/07/05 6:13:38 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Often,Often,2–3,3,5,3,2–3 times a week,Often,1,1,4,3,2,2,2,1,1,1,IT,0,0
+2026/07/05 6:14:07 pm GMT+5:30,22.0,Female,Horizon Campus,First Year,2–4 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,0–1,3,3,3,Never,Sometimes,3,3,3,3,3,3,2,3,2,2,Management,0,0
+2026/07/05 6:14:58 pm GMT+5:30,24.0,Female,Other,Third Year,4–6 hours,1–2 hours,6–7 hours,Always,Often,2–3,5,5,2,Once a week,Sometimes,2,1,2,4,4,1,2,2,2,1,Management,0,0
+2026/07/05 6:17:23 pm GMT+5:30,24.0,Male,University of Sri Jayewardenepura,Fourth Year,2–4 hours,3–4 hours,5–6 hours,Never,Often,0–1,5,4,3,Once a week,Sometimes,3,2,3,3,3,2,3,3,3,0,Medicine,0,0
+2026/07/05 6:17:35 pm GMT+5:30,24.0,Female,Horizon Campus,Second Year,6–8 hours,3–4 hours,5–6 hours,Always,Very Often,2–3,3,3,3,Never,Often,4,4,4,2,4,4,2,2,4,3,Technology,0,0
+2026/07/05 6:19:33 pm GMT+5:30,25.0,Female,University of Ruhuna,Fourth Year,6–8 hours,5–6 hours,5–6 hours,Often,Often,2–3,3,3,4,Never,Rarely,3,2,3,2,2,2,3,2,2,3,Medicine,0,0
+2026/07/05 6:21:51 pm GMT+5:30,24.0,Male,Other,Third Year,4–6 hours,1–2 hours,Less than 5 hours,Always,Often,2–3,5,5,4,Once a week,Rarely,3,3,3,3,3,3,4,3,3,3,IT,0,0
+2026/07/05 6:21:51 pm GMT+5:30,24.0,Female,Other,Fourth Year,More than 8 hours,Less than 1 hour,More than 8 hours,Always,Very Often,0–1,5,5,4,Never,Never,4,2,4,2,3,1,4,1,3,1,Medicine,0,0
+2026/07/05 6:22:14 pm GMT+5:30,27.0,Female,University of Colombo,Other,4–6 hours,3–4 hours,6–7 hours,Always,Often,0–1,5,5,4,Once a week,Sometimes,2,2,3,4,3,2,2,1,3,2,Medicine,0,0
+2026/07/05 6:35:17 pm GMT+5:30,25.0,Female,Other,Second Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Often,0–1,4,5,4,Never,Often,2,2,4,2,2,1,2,2,2,2,Technology,0,0
+2026/07/05 6:38:17 pm GMT+5:30,25.0,Female,University of Kelaniya,Third Year,6–8 hours,More than 6 hours,6–7 hours,Often,Often,2–3,5,5,5,Once a week,Sometimes,3,3,3,2,3,3,3,1,4,2,Science,0,0
+2026/07/05 6:38:39 pm GMT+5:30,27.0,Female,Horizon Campus,Third Year,4–6 hours,1–2 hours,5–6 hours,Often,Often,2–3,3,4,3,Once a week,Rarely,2,3,3,2,2,2,2,2,1,2,IT,0,0
+2026/07/05 6:39:40 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,More than 8 hours,1–2 hours,7–8 hours,Often,Sometimes,0–1,5,5,2,Never,Never,0,2,3,2,2,2,1,1,1,1,IT,0,0
+2026/07/05 6:41:56 pm GMT+5:30,22.0,Male,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,6–7 hours,Often,Often,2–3,3,3,2,More than 3 times a week,Sometimes,3,4,2,2,2,2,2,2,3,4,Science,0,0
+2026/07/05 6:46:20 pm GMT+5:30,22.0,Male,Horizon Campus,First Year,4–6 hours,Less than 1 hour,6–7 hours,Always,Sometimes,0–1,2,5,1,2–3 times a week,Never,4,3,3,2,2,2,2,3,2,3,Management,0,0
+2026/07/05 6:47:06 pm GMT+5:30,22.0,Female,University of Kelaniya,Third Year,4–6 hours,5–6 hours,6–7 hours,Often,Often,2–3,4,3,4,Once a week,Sometimes,3,2,2,4,3,2,2,3,2,3,Science,0,0
+2026/07/05 6:47:25 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,4–6 hours,1–2 hours,7–8 hours,Sometimes,Sometimes,2–3,3,4,3,Once a week,Sometimes,2,2,2,2,3,1,3,4,1,2,Technology,0,0
+2026/07/05 6:54:30 pm GMT+5:30,24.0,Female,University of Kelaniya,Third Year,4–6 hours,1–2 hours,6–7 hours,Always,Rarely,2–3,4,3,4,Once a week,Sometimes,2,1,2,2,2,3,2,3,2,3,Science,0,0
+2026/07/05 6:59:55 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,6–7 hours,Always,Sometimes,2–3,4,5,4,Never,Never,2,2,2,4,4,2,2,2,2,2,IT,0,0
+2026/07/05 7:00:42 pm GMT+5:30,24.0,Female,Sabaragamuwa University of Sri Lanka,Fourth Year,6–8 hours,3–4 hours,5–6 hours,Always,Often,0–1,5,4,3,Once a week,Sometimes,4,4,4,3,1,3,4,2,3,3,Medicine,0,0
+2026/07/05 7:11:08 pm GMT+5:30,25.0,Male,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,3,3,4,2–3 times a week,Sometimes,2,2,2,4,2,2,2,2,4,2,IT,0,0
+2026/07/05 7:13:29 pm GMT+5:30,26.0,Male,Other,First Year,6–8 hours,1–2 hours,7–8 hours,Sometimes,Sometimes,0–1,2,3,3,More than 3 times a week,Sometimes,2,2,2,3,2,1,2,2,1,2,Technology,0,0
+2026/07/05 7:20:05 pm GMT+5:30,23.0,Female,NSBM Green University,Third Year,4–6 hours,3–4 hours,5–6 hours,Always,Often,2–3,3,4,4,2–3 times a week,Sometimes,3,2,2,3,2,2,2,2,2,2,Other,0,0
+2026/07/05 7:23:51 pm GMT+5:30,24.0,Male,Horizon Campus,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Always,Very Often,2–3,5,5,4,2–3 times a week,Sometimes,2,3,4,2,3,2,2,2,2,2,IT,0,0
+2026/07/05 7:27:18 pm GMT+5:30,25.0,Female,Other,Second Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,4–5,5,5,4,Once a week,Often,2,2,3,2,2,2,2,2,3,3,Medicine,0,0
+2026/07/05 7:41:07 pm GMT+5:30,29.0,Male,Wayamba University of Sri Lanka,Other,4–6 hours,1–2 hours,6–7 hours,Often,Often,0–1,3,3,3,2–3 times a week,Sometimes,2,1,3,2,3,2,1,1,2,2,Agriculture,0,1
+2026/07/05 7:44:50 pm GMT+5:30,23.0,Male,Other,Other,4–6 hours,Less than 1 hour,6–7 hours,Always,Sometimes,2–3,2,4,3,More than 3 times a week,Very Often,2,2,3,4,1,2,1,3,3,0,Other,0,0
+2026/07/05 7:45:50 pm GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,Less than 2 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,3,3,4,Once a week,Sometimes,2,3,4,2,3,2,2,4,1,2,IT,0,0
+2026/07/05 7:53:55 pm GMT+5:30,24.0,Female,University of Ruhuna,Third Year,6–8 hours,3–4 hours,6–7 hours,Always,Often,4–5,5,5,4,Never,Often,4,3,3,3,4,4,4,4,2,2,Management,0,0
+2026/07/05 7:54:16 pm GMT+5:30,29.0,Prefer not to say,Other,Other,2–4 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,3,3,4,Never,Sometimes,0,0,1,2,2,1,0,3,2,0,Humanities_Social_Education,0,1
+2026/07/05 7:55:35 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,Less than 5 hours,Sometimes,Sometimes,2–3,5,5,4,Once a week,Sometimes,2,2,3,2,2,2,2,3,2,2,IT,0,0
+2026/07/05 7:57:55 pm GMT+5:30,25.0,Female,University of Ruhuna,Second Year,4–6 hours,More than 6 hours,5–6 hours,Always,Sometimes,2–3,3,3,3,Never,Rarely,3,3,2,3,2,3,3,3,3,3,Science,0,0
+2026/07/05 8:16:15 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,6–7 hours,Always,Very Often,2–3,5,5,1,Never,Sometimes,3,2,4,2,1,2,2,1,4,2,IT,0,0
+2026/07/05 8:16:38 pm GMT+5:30,25.0,Male,University of Moratuwa,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Always,Very Often,2–3,5,4,3,Never,Often,2,1,3,2,2,3,1,2,0,3,Technology,0,0
+2026/07/05 8:17:28 pm GMT+5:30,29.0,Male,University of Peradeniya,Other,4–6 hours,Less than 1 hour,5–6 hours,Often,Often,0–1,1,1,3,Once a week,Rarely,2,2,3,2,1,2,3,2,2,3,Medicine,0,1
+2026/07/05 8:17:45 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,7–8 hours,Often,Often,2–3,4,5,4,Once a week,Sometimes,2,0,1,0,2,2,2,2,2,2,IT,0,0
+2026/07/05 8:18:05 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,Less than 2 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,2–3,4,5,4,Once a week,Often,3,4,4,4,4,4,4,4,4,3,IT,0,0
+2026/07/05 8:19:49 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,6–7 hours,Always,Very Often,2–3,5,5,1,2–3 times a week,Sometimes,3,3,4,2,1,3,2,1,3,4,IT,0,0
+2026/07/05 8:22:20 pm GMT+5:30,23.0,Female,NSBM Green University,Second Year,6–8 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,3,4,4,Never,Never,4,2,2,3,1,1,2,2,1,2,Medicine,0,0
+2026/07/05 8:33:33 pm GMT+5:30,25.0,Female,The Open University of Sri Lanka,Fourth Year,6–8 hours,Less than 1 hour,5–6 hours,Always,Often,0–1,2,3,5,Never,Sometimes,4,3,4,4,4,0,0,0,2,0,Humanities_Social_Education,0,0
+2026/07/05 8:39:24 pm GMT+5:30,28.0,Female,University of Ruhuna,Other,2–4 hours,5–6 hours,6–7 hours,Always,Never,2–3,4,5,4,2–3 times a week,Never,4,3,4,2,1,4,1,1,4,4,Humanities_Social_Education,0,0
+2026/07/05 8:39:47 pm GMT+5:30,25.0,Male,Other,Other,4–6 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,4–5,4,5,3,Never,Sometimes,3,2,3,2,2,2,2,2,2,2,Agriculture,0,0
+2026/07/05 8:42:22 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,1–2 hours,Less than 5 hours,Always,Sometimes,2–3,5,5,3,Never,Sometimes,2,2,2,1,2,2,2,2,2,2,IT,0,0
+2026/07/05 8:47:50 pm GMT+5:30,24.0,Female,NSBM Green University,Other,2–4 hours,1–2 hours,7–8 hours,Often,Sometimes,0–1,3,3,2,More than 3 times a week,Often,2,3,3,3,3,4,4,3,4,3,IT,0,0
+2026/07/05 8:53:56 pm GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Other,6–8 hours,1–2 hours,7–8 hours,Always,Often,2–3,4,3,4,Never,Rarely,2,1,2,3,2,2,3,2,2,2,Technology,0,0
+2026/07/05 9:12:18 pm GMT+5:30,24.0,Male,Horizon Campus,Third Year,4–6 hours,1–2 hours,5–6 hours,Always,Sometimes,2–3,4,4,4,Once a week,Often,4,3,3,1,3,3,3,3,4,3,IT,0,0
+2026/07/05 9:22:06 pm GMT+5:30,25.0,Male,Horizon Campus,Third Year,2–4 hours,1–2 hours,5–6 hours,Rarely,Rarely,2–3,4,2,4,Once a week,Sometimes,2,2,2,3,2,2,2,2,3,1,IT,0,0
+2026/07/05 10:04:31 pm GMT+5:30,20.0,Female,University of Sri Jayewardenepura,First Year,2–4 hours,5–6 hours,5–6 hours,Often,Sometimes,0–1,4,4,3,Never,Rarely,2,2,3,1,2,1,2,1,2,2,Management,0,0
+2026/07/05 10:09:38 pm GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,More than 8 hours,5–6 hours,Less than 5 hours,Sometimes,Sometimes,2–3,5,4,5,2–3 times a week,Sometimes,2,2,3,2,2,2,2,2,2,2,IT,0,0
+2026/07/05 10:10:13 pm GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,5–6 hours,Always,Sometimes,2–3,5,5,4,2–3 times a week,Sometimes,2,2,3,2,2,2,1,2,3,2,IT,0,0
+2026/07/05 10:49:08 pm GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,6–8 hours,3–4 hours,5–6 hours,Often,Sometimes,0–1,2,3,3,Never,Sometimes,2,2,2,2,2,1,2,2,2,2,IT,0,0
+2026/07/05 11:02:18 pm GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Fourth Year,6–8 hours,3–4 hours,6–7 hours,Often,Often,0–1,5,5,3,Never,Sometimes,2,2,3,4,2,2,3,3,2,2,Medicine,0,0
+2026/07/05 11:12:40 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,Less than 5 hours,Always,Sometimes,More than 5,3,3,3,More than 3 times a week,Sometimes,1,2,2,2,2,2,2,2,2,2,Management,0,0
+2026/07/05 11:22:24 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,5–6 hours,Always,Sometimes,2–3,3,5,3,Never,Sometimes,4,2,4,3,2,2,2,2,4,2,IT,0,0
+2026/07/05 11:37:01 pm GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,5,5,5,Once a week,Sometimes,2,1,3,4,3,1,1,3,0,1,Humanities_Social_Education,0,0
+2026/07/05 11:38:23 pm GMT+5:30,25.0,Male,NSBM Green University,Third Year,4–6 hours,1–2 hours,Less than 5 hours,Often,Often,0–1,3,5,3,Never,Sometimes,2,4,4,3,2,2,3,1,3,3,IT,0,0
+2026/07/05 11:59:20 pm GMT+5:30,24.0,Male,University of Ruhuna,Second Year,4–6 hours,1–2 hours,6–7 hours,Always,Often,2–3,5,5,3,Once a week,Sometimes,2,2,2,3,3,2,2,1,0,1,Technology,0,0
+2026/07/06 12:48:47 am GMT+5:30,24.0,Male,University of Kelaniya,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Rarely,0–1,2,2,3,Never,Never,3,0,0,2,1,1,2,1,1,1,Other,0,0
+2026/07/06 6:38:10 am GMT+5:30,23.0,Female,University of Kelaniya,Third Year,4–6 hours,1–2 hours,5–6 hours,Often,Often,2–3,4,5,3,Once a week,Rarely,3,4,3,4,4,4,3,2,4,4,Science,0,0
+2026/07/06 7:53:20 am GMT+5:30,24.0,Male,University of Kelaniya,Third Year,4–6 hours,1–2 hours,7–8 hours,Often,Sometimes,0–1,4,4,3,Never,Rarely,3,2,3,1,1,2,2,1,3,2,Science,0,0
+2026/07/06 8:36:55 am GMT+5:30,25.0,Male,University of Sri Jayewardenepura,Fourth Year,2–4 hours,More than 6 hours,5–6 hours,Rarely,Often,0–1,4,5,3,Never,Sometimes,2,2,2,2,2,2,2,2,1,2,Medicine,0,0
+2026/07/06 10:04:50 am GMT+5:30,24.0,Female,University of Colombo,Fourth Year,6–8 hours,3–4 hours,6–7 hours,Always,Often,2–3,4,4,3,Once a week,Sometimes,3,3,3,3,2,3,2,1,2,2,Science,0,0
+2026/07/06 11:04:36 am GMT+5:30,23.0,Male,Other,Other,4–6 hours,More than 6 hours,Less than 5 hours,Often,Sometimes,2–3,4,4,4,More than 3 times a week,Often,2,2,3,3,2,2,2,3,2,3,Science,0,0
+2026/07/06 11:07:58 am GMT+5:30,29.0,Male,Wayamba University of Sri Lanka,Other,6–8 hours,1–2 hours,6–7 hours,Rarely,Sometimes,2–3,4,3,5,Never,Sometimes,3,2,3,2,1,2,2,1,2,2,Agriculture,0,1
+2026/07/06 11:09:17 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,Less than 1 hour,Less than 5 hours,Always,Often,0–1,5,5,2,Never,Rarely,4,3,3,1,1,1,1,1,1,3,IT,0,0
+2026/07/06 11:24:44 am GMT+5:30,24.0,Female,Other,Third Year,4–6 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,2–3,3,2,3,2–3 times a week,Sometimes,1,0,1,1,1,1,2,2,2,2,Management,0,0
+2026/07/06 11:25:28 am GMT+5:30,42.0,Female,The Open University of Sri Lanka,Other,Less than 2 hours,Less than 1 hour,5–6 hours,Often,Often,0–1,1,5,5,Never,Rarely,4,1,4,3,2,1,1,3,4,4,Humanities_Social_Education,0,1
+2026/07/06 11:45:06 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,5–6 hours,Always,Often,4–5,5,5,3,Never,Rarely,4,3,3,3,3,2,4,2,2,2,IT,0,0
+2026/07/06 12:02:54 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,More than 6 hours,Less than 5 hours,Rarely,Sometimes,More than 5,5,5,4,More than 3 times a week,Sometimes,3,3,3,3,3,2,3,3,3,3,IT,0,0
+2026/07/06 12:54:26 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,Less than 5 hours,Always,Sometimes,2–3,4,5,2,Never,Sometimes,4,4,3,3,3,3,3,3,2,2,Management,0,0
+2026/07/06 1:10:23 pm GMT+5:30,28.0,Male,Sri Lanka Institute of Information Technology (SLIIT),Other,More than 8 hours,Less than 1 hour,5–6 hours,Always,Often,0–1,5,3,3,2–3 times a week,Often,4,4,4,4,3,3,3,3,4,3,IT,0,0
+2026/07/06 2:14:17 pm GMT+5:30,26.0,Female,University of Sri Jayewardenepura,Third Year,2–4 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,0–1,5,3,4,2–3 times a week,Sometimes,2,2,2,1,2,2,2,2,2,2,Other,0,0
+2026/07/06 2:18:58 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,Less than 2 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,2–3,5,5,3,2–3 times a week,Rarely,3,3,4,3,3,3,2,1,3,2,IT,0,0
+2026/07/06 2:39:09 pm GMT+5:30,25.0,Female,University of Colombo,Fourth Year,4–6 hours,3–4 hours,Less than 5 hours,Sometimes,Sometimes,2–3,4,5,3,More than 3 times a week,Sometimes,4,2,4,2,2,4,2,2,2,2,Management,0,0
+2026/07/06 4:11:37 pm GMT+5:30,24.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,More than 6 hours,5–6 hours,Always,Very Often,More than 5,4,4,4,Never,Sometimes,4,4,4,3,1,3,2,1,3,3,Other,0,0
+2026/07/06 4:36:24 pm GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,4,4,4,2–3 times a week,Rarely,2,2,4,2,2,2,4,4,4,2,IT,0,0
+2026/07/06 4:43:33 pm GMT+5:30,24.0,Female,University of Ruhuna,Second Year,6–8 hours,More than 6 hours,6–7 hours,Always,Sometimes,2–3,4,3,4,Never,Sometimes,3,2,3,3,4,4,2,3,0,2,Agriculture,0,0
+2026/07/06 5:21:30 pm GMT+5:30,24.0,Female,National Institute of Business Management (NIBM),Second Year,4–6 hours,5–6 hours,5–6 hours,Sometimes,Sometimes,0–1,3,4,4,Once a week,Rarely,2,2,3,2,2,2,2,2,1,2,Technology,0,0
+2026/07/06 5:29:27 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,7–8 hours,Rarely,Sometimes,2–3,3,3,3,Never,Sometimes,2,2,2,4,2,2,2,2,2,2,IT,0,0
+2026/07/06 6:01:21 pm GMT+5:30,20.0,Male,Other,Other,2–4 hours,5–6 hours,Less than 5 hours,Sometimes,Never,2–3,3,3,3,2–3 times a week,Sometimes,0,0,0,2,2,2,2,2,0,0,Other,0,0
+2026/07/06 6:06:34 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,5–6 hours,Always,Often,2–3,4,5,4,2–3 times a week,Sometimes,1,2,0,1,0,2,3,0,2,3,Management,0,0
+2026/07/06 7:07:05 pm GMT+5:30,24.0,Male,Other,Other,Less than 2 hours,1–2 hours,Less than 5 hours,Sometimes,Very Often,0–1,5,5,4,More than 3 times a week,Very Often,4,4,4,3,2,2,2,3,3,3,Other,0,0
+2026/07/06 7:35:57 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,5–6 hours,Always,Very Often,More than 5,4,5,2,Once a week,Sometimes,2,3,3,3,3,2,3,2,2,2,IT,0,0
+2026/07/06 8:46:09 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,7–8 hours,Often,Sometimes,2–3,4,5,3,More than 3 times a week,Often,3,2,2,2,2,2,2,2,2,2,Science,0,0
+2026/07/06 10:01:47 pm GMT+5:30,24.0,Female,NSBM Green University,Other,6–8 hours,5–6 hours,7–8 hours,Always,Often,2–3,4,4,5,Once a week,Sometimes,3,0,0,4,4,1,3,3,2,1,Management,0,0
+2026/07/06 10:23:50 pm GMT+5:30,28.0,Female,Wayamba University of Sri Lanka,Other,4–6 hours,3–4 hours,6–7 hours,Always,Sometimes,4–5,4,4,4,Never,Sometimes,2,0,1,2,3,2,3,3,0,2,Agriculture,0,0
+2026/07/06 11:10:48 pm GMT+5:30,27.0,Female,Horizon Campus,Fourth Year,6–8 hours,3–4 hours,Less than 5 hours,Often,Sometimes,2–3,4,4,3,2–3 times a week,Sometimes,3,2,3,3,2,2,2,2,2,2,IT,0,0
+2026/07/07 6:36:16 am GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Fourth Year,4–6 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,5,5,3,Never,Sometimes,2,2,3,2,2,2,3,2,2,2,Management,0,0
+2026/07/07 7:03:23 am GMT+5:30,24.0,Female,University of Ruhuna,Fourth Year,2–4 hours,5–6 hours,7–8 hours,Sometimes,Sometimes,4–5,4,4,3,2–3 times a week,Sometimes,3,4,3,2,2,2,2,2,2,2,Management,0,0
+2026/07/07 8:13:07 am GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Fourth Year,Less than 2 hours,3–4 hours,6–7 hours,Always,Often,0–1,5,5,4,Never,Sometimes,2,3,4,2,2,2,2,2,3,2,Management,0,0
+2026/07/07 9:06:33 am GMT+5:30,24.0,Female,Other,Other,4–6 hours,5–6 hours,5–6 hours,Often,Very Often,0–1,3,2,4,More than 3 times a week,Very Often,3,1,1,3,3,2,2,2,2,3,Other,0,0
+2026/07/07 11:46:29 am GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,1–2 hours,5–6 hours,Always,Sometimes,2–3,4,5,3,Never,Sometimes,4,3,3,2,2,2,2,2,2,2,IT,0,0
+2026/07/07 12:00:39 pm GMT+5:30,23.0,Female,South Eastern University of Sri Lanka,Second Year,2–4 hours,3–4 hours,Less than 5 hours,Rarely,Sometimes,2–3,5,5,3,Never,Rarely,4,2,4,3,2,3,3,3,4,3,Science,0,0
+2026/07/07 12:44:53 pm GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,2–4 hours,5–6 hours,6–7 hours,Sometimes,Rarely,2–3,3,2,3,Once a week,Sometimes,2,1,1,3,4,2,2,3,2,1,IT,0,0
+2026/07/07 2:50:36 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,6–7 hours,Often,Often,4–5,5,5,3,Never,Rarely,4,4,4,4,4,4,3,4,4,4,IT,0,0
+2026/07/07 2:53:10 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,5–6 hours,Less than 5 hours,Sometimes,Sometimes,4–5,5,5,4,Never,Often,2,2,4,3,3,2,2,2,2,2,IT,0,0
+2026/07/07 3:00:37 pm GMT+5:30,25.0,Female,University of Ruhuna,Third Year,6–8 hours,3–4 hours,Less than 5 hours,Often,Often,0–1,4,5,3,Never,Never,2,3,4,2,2,2,2,2,3,3,Medicine,0,0
+2026/07/07 6:25:05 pm GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Always,Sometimes,0–1,4,3,5,2–3 times a week,Sometimes,4,0,2,3,3,3,3,3,2,2,IT,0,0
+2026/07/07 6:26:40 pm GMT+5:30,24.0,Male,Horizon Campus,Third Year,6–8 hours,1–2 hours,6–7 hours,Always,Sometimes,0–1,4,4,3,Never,Rarely,2,3,2,2,2,2,2,2,3,3,Management,0,0
+2026/07/07 6:32:04 pm GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,6–7 hours,Sometimes,Often,0–1,4,4,5,Never,Rarely,2,3,3,2,2,3,2,3,2,2,Management,0,0
+2026/07/07 8:30:12 pm GMT+5:30,27.0,Male,Horizon Campus,Other,2–4 hours,1–2 hours,5–6 hours,Always,Often,2–3,4,2,5,Never,Sometimes,1,2,2,3,2,2,3,2,3,3,Science,0,0
+2026/07/07 9:17:07 pm GMT+5:30,25.0,Female,General Sir John Kotelawala Defence University,Fourth Year,More than 8 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,4,5,3,2–3 times a week,Often,3,4,3,2,1,4,2,3,4,3,Medicine,0,0
+2026/07/07 9:28:12 pm GMT+5:30,25.0,Female,Horizon Campus,Third Year,More than 8 hours,More than 6 hours,5–6 hours,Always,Sometimes,2–3,4,4,4,2–3 times a week,Often,2,2,3,2,1,2,2,2,2,2,Management,0,0
+2026/07/07 10:00:43 pm GMT+5:30,24.0,Male,Horizon Campus,Other,2–4 hours,Less than 1 hour,7–8 hours,Always,Sometimes,0–1,1,2,5,2–3 times a week,Often,1,0,0,4,3,1,4,4,1,0,Science,0,0
+2026/07/07 10:42:57 pm GMT+5:30,25.0,Female,University of Colombo,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Always,Very Often,2–3,5,5,3,Never,Sometimes,2,2,4,2,2,2,2,2,3,2,Technology,0,0
+2026/07/08 6:10:07 am GMT+5:30,24.0,Male,University of Kelaniya,Other,More than 8 hours,1–2 hours,5–6 hours,Always,Often,2–3,4,5,4,Never,Sometimes,2,2,4,2,1,3,2,2,3,2,Humanities_Social_Education,0,0
+2026/07/08 6:35:33 am GMT+5:30,28.0,Female,Wayamba University of Sri Lanka,Other,2–4 hours,1–2 hours,6–7 hours,Often,Sometimes,2–3,3,3,4,Once a week,Sometimes,2,2,2,2,2,1,2,2,2,2,Other,0,0
+2026/07/08 7:23:32 am GMT+5:30,23.0,Female,Horizon Campus,Third Year,2–4 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,3,4,3,Once a week,Sometimes,2,2,2,2,2,2,2,1,2,2,IT,0,0
+2026/07/08 9:14:36 am GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,6–8 hours,5–6 hours,5–6 hours,Often,Often,2–3,2,2,2,Once a week,Rarely,2,2,2,1,2,1,1,1,1,1,IT,0,0
+2026/07/08 9:23:44 am GMT+5:30,23.0,Female,NSBM Green University,Second Year,2–4 hours,3–4 hours,5–6 hours,Often,Often,4–5,5,4,3,Once a week,Sometimes,3,3,3,2,1,1,1,1,1,2,Management,0,0
+2026/07/08 10:57:42 am GMT+5:30,24.0,Male,University of Peradeniya,Third Year,More than 8 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,3,4,3,2–3 times a week,Sometimes,2,1,2,3,2,2,2,1,2,2,Science,0,0
+2026/07/08 11:35:43 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,2–4 hours,3–4 hours,6–7 hours,Always,Often,2–3,4,5,4,Never,Sometimes,3,2,2,3,3,0,1,2,1,1,IT,0,0
+2026/07/08 1:39:14 pm GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,2–3,5,5,4,Once a week,Sometimes,2,2,4,3,2,2,3,1,2,2,IT,0,0
+2026/07/08 5:16:16 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,2–4 hours,3–4 hours,6–7 hours,Always,Rarely,2–3,4,5,5,Never,Sometimes,4,2,3,1,2,2,3,3,2,2,Science,0,0
+2026/07/08 6:27:21 pm GMT+5:30,26.0,Female,University of Kelaniya,Fourth Year,Less than 2 hours,5–6 hours,5–6 hours,Always,Very Often,2–3,3,5,4,Never,Often,3,3,3,3,2,3,3,3,3,3,Medicine,0,0
+2026/07/09 9:24:44 am GMT+5:30,23.0,Male,University of Ruhuna,Second Year,6–8 hours,3–4 hours,6–7 hours,Always,Often,4–5,3,2,3,Once a week,Sometimes,2,4,1,2,3,1,3,3,3,3,Management,0,0
+2026/07/09 9:26:05 am GMT+5:30,20.0,Male,Rajarata University of Sri Lanka,First Year,2–4 hours,3–4 hours,7–8 hours,Sometimes,Rarely,0–1,2,3,3,Never,Often,1,3,3,0,2,3,0,2,2,0,Humanities_Social_Education,0,0
+2026/07/09 9:27:10 am GMT+5:30,22.0,Male,Informatics Institute of Technology (IIT),First Year,6–8 hours,5–6 hours,5–6 hours,Often,Never,More than 5,4,3,1,2–3 times a week,Rarely,1,3,0,3,4,1,2,1,3,1,IT,0,0
+2026/07/09 9:28:38 am GMT+5:30,24.0,Male,University of Moratuwa,Fourth Year,4–6 hours,5–6 hours,Less than 5 hours,Rarely,Never,More than 5,3,3,1,2–3 times a week,Sometimes,2,3,1,4,0,4,2,3,0,3,Technology,0,0
+2026/07/09 9:30:37 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,Less than 5 hours,Always,Often,More than 5,5,5,3,More than 3 times a week,Rarely,1,2,3,1,3,0,3,1,2,4,Other,0,0
+2026/07/09 9:48:36 am GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,More than 8 hours,3–4 hours,6–7 hours,Always,Often,0–1,4,5,5,Never,Sometimes,4,4,4,2,2,3,2,1,4,4,Science,0,0
+2026/07/09 9:56:44 am GMT+5:30,25.0,Male,General Sir John Kotelawala Defence University,Fourth Year,More than 8 hours,5–6 hours,Less than 5 hours,Always,Sometimes,More than 5,5,5,3,More than 3 times a week,Rarely,1,4,2,0,3,1,3,2,4,1,IT,0,0
+2026/07/09 10:04:25 am GMT+5:30,21.0,Male,University of Kelaniya,First Year,4–6 hours,1–2 hours,More than 8 hours,Always,Very Often,0–1,2,3,2,Once a week,Sometimes,1,2,0,3,1,4,1,3,1,3,Science,0,0
+2026/07/09 10:06:41 am GMT+5:30,19.0,Female,Sabaragamuwa University of Sri Lanka,First Year,4–6 hours,3–4 hours,5–6 hours,Often,Often,0–1,3,4,5,Never,Never,4,1,3,1,2,0,3,4,0,1,Medicine,0,1
+2026/07/09 10:08:58 am GMT+5:30,28.0,Male,NSBM Green University,Third Year,More than 8 hours,1–2 hours,5–6 hours,Sometimes,Often,0–1,5,5,2,2–3 times a week,Sometimes,3,1,2,4,0,0,1,4,1,2,Management,0,0
+2026/07/09 10:22:35 am GMT+5:30,25.0,Female,University of Colombo,Second Year,4–6 hours,5–6 hours,5–6 hours,Sometimes,Often,2–3,4,4,2,Once a week,Rarely,2,3,2,3,2,3,3,2,3,3,Science,0,0
+2026/07/09 12:27:24 pm GMT+5:30,24.0,Male,Horizon Campus,Fourth Year,4–6 hours,Less than 1 hour,5–6 hours,Sometimes,Sometimes,0–1,2,2,5,Once a week,Sometimes,2,2,3,2,3,2,2,2,3,2,IT,0,0
+2026/07/09 1:39:21 pm GMT+5:30,23.0,Male,The Open University of Sri Lanka,Fourth Year,2–4 hours,5–6 hours,6–7 hours,Always,Often,2–3,5,4,4,2–3 times a week,Sometimes,2,2,3,3,2,2,1,3,3,2,Technology,0,0
+2026/07/09 1:53:58 pm GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,More than 8 hours,5–6 hours,Less than 5 hours,Never,Sometimes,More than 5,4,3,5,Never,Sometimes,2,2,0,1,1,1,2,1,0,0,Technology,0,0
+2026/07/09 1:54:01 pm GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,2–4 hours,3–4 hours,5–6 hours,Always,Sometimes,0–1,5,4,4,Once a week,Sometimes,2,1,3,2,0,1,1,3,2,2,IT,0,0
+2026/07/09 2:08:16 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Always,Sometimes,4–5,5,4,2,Once a week,Often,2,2,1,2,2,2,2,2,2,2,IT,0,0
+2026/07/09 2:09:20 pm GMT+5:30,24.0,Female,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,5–6 hours,Often,Often,2–3,3,4,3,Once a week,Sometimes,4,3,3,2,2,2,2,3,4,2,Science,0,0
+2026/07/09 4:45:09 pm GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,6–8 hours,5–6 hours,Less than 5 hours,Rarely,Rarely,0–1,2,2,2,Once a week,Rarely,1,1,2,1,1,1,1,2,1,1,Management,0,0
+2026/07/09 6:00:26 pm GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,2–4 hours,Less than 1 hour,6–7 hours,Sometimes,Sometimes,2–3,1,1,4,Once a week,Rarely,1,2,1,2,1,1,2,1,2,1,IT,0,0
+2026/07/09 7:23:01 pm GMT+5:30,27.0,Female,Wayamba University of Sri Lanka,Other,2–4 hours,5–6 hours,5–6 hours,Always,Often,2–3,3,3,3,Never,Sometimes,3,3,3,4,3,3,3,3,3,2,Other,0,0
+2026/07/09 9:07:07 pm GMT+5:30,22.0,Female,Rajarata University of Sri Lanka,Second Year,4–6 hours,More than 6 hours,5–6 hours,Sometimes,Sometimes,2–3,3,4,3,Never,Often,2,2,4,2,1,2,2,3,2,2,Humanities_Social_Education,0,0
+2026/07/09 9:53:18 pm GMT+5:30,25.0,Female,Sabaragamuwa University of Sri Lanka,Fourth Year,2–4 hours,Less than 1 hour,7–8 hours,Always,Sometimes,0–1,4,5,4,Once a week,Sometimes,1,2,2,3,4,0,0,3,1,3,Technology,0,0
+2026/07/10 6:41:57 am GMT+5:30,28.0,Female,Horizon Campus,Other,6–8 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,3,2,5,2–3 times a week,Sometimes,2,1,2,1,2,1,0,1,1,1,Other,0,0
+2026/07/10 8:48:57 am GMT+5:30,24.0,Female,Other,Third Year,More than 8 hours,1–2 hours,6–7 hours,Always,Sometimes,0–1,1,4,4,2–3 times a week,Sometimes,3,2,2,2,2,2,2,2,2,2,Management,0,0
+2026/07/10 4:04:25 pm GMT+5:30,23.0,Male,Wayamba University of Sri Lanka,Third Year,4–6 hours,1–2 hours,5–6 hours,Always,Sometimes,2–3,2,4,1,Never,Often,1,3,2,3,0,3,1,3,4,2,Agriculture,0,0
+2026/07/10 4:33:45 pm GMT+5:30,27.0,Male,Other,Fourth Year,More than 8 hours,1–2 hours,5–6 hours,Always,Very Often,0–1,5,5,1,Never,Very Often,3,2,1,4,0,3,1,3,2,4,Humanities_Social_Education,0,0
+2026/07/10 4:35:33 pm GMT+5:30,24.0,Male,General Sir John Kotelawala Defence University,Second Year,More than 8 hours,More than 6 hours,Less than 5 hours,Rarely,Never,0–1,5,5,4,Once a week,Never,3,0,3,1,0,2,2,4,3,0,Medicine,0,0
+2026/07/10 5:03:04 pm GMT+5:30,22.0,Male,University of Jaffna,Third Year,2–4 hours,Less than 1 hour,More than 8 hours,Always,Very Often,0–1,5,5,1,More than 3 times a week,Very Often,1,4,4,1,1,2,0,2,4,3,Science,0,0
+2026/07/10 6:09:47 pm GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Sometimes,Never,4–5,5,5,5,Never,Rarely,2,0,2,1,2,2,3,2,3,2,IT,0,0
+2026/07/11 7:15:31 am GMT+5:30,28.0,Male,Other,Third Year,6–8 hours,Less than 1 hour,More than 8 hours,Always,Very Often,0–1,5,5,1,Never,Sometimes,2,3,2,0,4,4,4,4,3,3,Science,0,0
+2026/07/11 7:19:26 am GMT+5:30,20.0,Male,Rajarata University of Sri Lanka,First Year,6–8 hours,1–2 hours,7–8 hours,Always,Often,4–5,4,3,3,Once a week,Very Often,2,0,3,0,3,2,1,4,1,3,IT,0,0
+2026/07/11 7:37:11 am GMT+5:30,25.0,Female,University of Moratuwa,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Always,Very Often,2–3,4,4,3,Once a week,Sometimes,2,3,3,2,2,3,2,2,3,2,Technology,0,0
+2026/07/11 7:40:18 am GMT+5:30,24.0,Male,University of Colombo,Third Year,6–8 hours,1–2 hours,5–6 hours,Often,Often,4–5,5,5,2,Never,Rarely,3,2,4,1,1,4,2,1,3,4,Science,0,0
+2026/07/11 7:42:32 am GMT+5:30,23.0,Male,University of Sri Jayewardenepura,Second Year,4–6 hours,3–4 hours,6–7 hours,Often,Sometimes,2–3,3,4,4,2–3 times a week,Sometimes,2,2,2,3,3,2,3,3,2,1,Management,0,0
+2026/07/11 7:44:39 am GMT+5:30,22.0,Male,"Eastern University, Sri Lanka",Third Year,More than 8 hours,1–2 hours,Less than 5 hours,Always,Very Often,4–5,5,5,2,Never,Rarely,4,3,4,1,2,4,1,2,4,4,IT,0,0
+2026/07/11 7:46:40 am GMT+5:30,23.0,Male,University of Peradeniya,Fourth Year,6–8 hours,3–4 hours,5–6 hours,Often,Often,2–3,4,4,3,Once a week,Sometimes,3,2,3,2,2,3,2,2,3,3,Medicine,0,0
+2026/07/11 10:54:35 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,1–2 hours,Less than 5 hours,Sometimes,Sometimes,More than 5,5,5,3,Never,Never,3,2,3,2,2,2,3,2,3,2,IT,0,0
+2026/07/12 8:10:16 am GMT+5:30,22.0,Female,CINEC Campus,Second Year,More than 8 hours,More than 6 hours,5–6 hours,Always,Very Often,4–5,5,5,5,Once a week,Sometimes,2,3,3,3,2,2,3,3,4,3,Management,0,0
+2026/07/12 9:43:57 am GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,More than 6 hours,5–6 hours,Always,Very Often,2–3,5,5,4,Never,Never,2,3,4,3,4,3,4,3,4,4,IT,0,0
+2026/07/12 10:18:57 am GMT+5:30,22.0,Female,Uva Wellassa University,First Year,4–6 hours,3–4 hours,6–7 hours,Often,Sometimes,2–3,4,4,4,2–3 times a week,Sometimes,3,4,3,2,1,3,2,2,4,3,Science,0,0
+2026/07/12 2:07:01 pm GMT+5:30,24.0,Male,Horizon Campus,Third Year,4–6 hours,5–6 hours,5–6 hours,Sometimes,Sometimes,2–3,4,4,4,Once a week,Sometimes,2,2,1,2,2,2,2,2,2,2,Science,0,0
+2026/07/12 8:25:22 pm GMT+5:30,22.0,Male,Uva Wellassa University,Third Year,More than 8 hours,3–4 hours,More than 8 hours,Often,Sometimes,2–3,3,4,4,2–3 times a week,Very Often,3,1,2,3,0,4,1,3,2,3,Science,0,0
+2026/07/12 8:27:03 pm GMT+5:30,23.0,Male,University of Sri Jayewardenepura,First Year,4–6 hours,5–6 hours,5–6 hours,Always,Rarely,0–1,4,4,3,Once a week,Sometimes,1,3,2,2,0,3,3,4,1,2,Medicine,0,0
+2026/07/12 8:28:12 pm GMT+5:30,22.0,Male,University of Moratuwa,Second Year,4–6 hours,5–6 hours,5–6 hours,Always,Often,2–3,4,3,2,2–3 times a week,Often,4,3,4,0,1,2,3,1,4,0,Management,0,0
+2026/07/12 8:29:11 pm GMT+5:30,27.0,Male,The Open University of Sri Lanka,Third Year,6–8 hours,1–2 hours,More than 8 hours,Always,Very Often,2–3,5,5,2,Once a week,Sometimes,1,2,3,0,1,2,4,4,2,1,Science,0,0
+2026/07/12 8:30:18 pm GMT+5:30,25.0,Male,University of Peradeniya,Third Year,More than 8 hours,1–2 hours,Less than 5 hours,Always,Very Often,More than 5,5,5,3,More than 3 times a week,Never,3,1,4,1,2,3,1,0,3,4,IT,0,0
+2026/07/12 10:14:16 pm GMT+5:30,22.0,Male,University of Peradeniya,Second Year,2–4 hours,Less than 1 hour,5–6 hours,Sometimes,Often,More than 5,2,2,5,More than 3 times a week,Often,2,1,4,4,2,1,3,2,3,2,Technology,0,0
+2026/07/15 9:46:38 am GMT+5:30,25.0,Male,Uva Wellassa University,Fourth Year,More than 8 hours,5–6 hours,6–7 hours,Always,Often,2–3,4,3,5,More than 3 times a week,Rarely,3,2,2,3,2,2,2,2,3,2,Science,0,0
+2026/07/15 1:42:50 pm GMT+5:30,24.0,Male,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,3,5,4,Once a week,Sometimes,4,4,4,2,2,2,2,2,2,2,Science,0,0
+2026/07/28 1:48:22 pm GMT+5:30,24.0,Female,University of Jaffna,Third Year,6–8 hours,More than 6 hours,6–7 hours,Often,Sometimes,2–3,5,5,4,Once a week,Sometimes,1,1,1,3,2,2,2,2,0,0,Science,0,0
+2026/08/03 6:27:03 pm GMT+5:30,25.0,Female,Horizon Campus,Other,More than 8 hours,1–2 hours,5–6 hours,Always,Rarely,0–1,3,5,4,Never,Sometimes,4,4,4,2,3,2,4,4,4,3,Technology,0,0
+2026/09/23 9:48:58 am GMT+5:30,24.0,Male,Other,Other,4–6 hours,5–6 hours,More than 8 hours,Always,Often,0–1,4,5,3,Once a week,Sometimes,3,1,1,4,2,1,4,1,1,2,Humanities_Social_Education,0,0
+2026/07/18 08:12:00 PM GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Third Year,2–4 hours,3–4 hours,7–8 hours,Often,Rarely,2–3,4,2,3,2–3 times a week,Sometimes,2,3,3,2,1,2,2,2,3,2,Science,0,0
+2026/07/06 07:48:00 PM GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,Less than 5 hours,Sometimes,Sometimes,2–3,5,5,4,Once a week,Sometimes,3,2,4,4,2,1,2,3,2,3,IT,0,0
+2026/07/04 08:39:00 PM GMT+5:30,26.0,Male,Wayamba University of Sri Lanka,Third Year,6–8 hours,5–6 hours,Less than 5 hours,Often,Rarely,0–1,4,5,3,Never,Rarely,2,0,2,0,3,2,3,2,1,3,Science,0,0
+2026/07/21 03:59:00 AM GMT+5:30,28.0,Male,Horizon Campus,Third Year,2–4 hours,More than 6 hours,6–7 hours,Always,Never,2–3,3,5,2,2–3 times a week,Rarely,3,2,1,2,2,3,2,2,1,2,Agriculture,0,0
+2026/07/10 01:12:00 PM GMT+5:30,24.0,Male,Horizon Campus,Third Year,2–4 hours,3–4 hours,5–6 hours,Always,Often,2–3,4,3,3,Once a week,Rarely,2,2,3,2,2,2,1,4,4,2,Humanities_Social_Education,0,0
+2026/07/09 08:44:00 PM GMT+5:30,24.0,Female,Horizon Campus,Third Year,Less than 2 hours,1–2 hours,7–8 hours,Always,Never,More than 5,2,4,3,Never,Sometimes,2,4,4,3,1,2,2,2,2,1,Science,0,0
+2026/07/09 08:54:00 AM GMT+5:30,28.0,Female,Other,Fourth Year,4–6 hours,5–6 hours,6–7 hours,Sometimes,Often,2–3,3,3,5,Once a week,Sometimes,3,4,2,0,2,1,3,2,2,3,Science,0,0
+2026/07/07 11:12:00 AM GMT+5:30,26.0,Male,Horizon Campus,Other,4–6 hours,3–4 hours,6–7 hours,Always,Sometimes,4–5,4,5,3,2–3 times a week,Sometimes,2,1,3,1,3,3,1,2,3,4,Science,0,0
+2026/07/21 01:12:00 AM GMT+5:30,23.0,Female,Horizon Campus,Other,2–4 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,2,5,4,Once a week,Sometimes,2,2,2,3,2,0,3,4,2,2,Technology,0,0
+2026/07/06 02:58:00 PM GMT+5:30,26.0,Male,University of Kelaniya,Third Year,6–8 hours,5–6 hours,6–7 hours,Often,Often,0–1,1,5,4,Never,Rarely,2,4,3,4,1,2,3,3,0,0,IT,0,0
+2026/07/19 04:34:00 PM GMT+5:30,23.0,Male,Horizon Campus,Third Year,4–6 hours,5–6 hours,6–7 hours,Often,Sometimes,More than 5,3,2,3,Never,Rarely,2,4,2,2,2,2,3,3,2,2,Technology,0,0
+2026/07/21 03:30:00 AM GMT+5:30,23.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,3–4 hours,Less than 5 hours,Sometimes,Often,2–3,3,4,4,Never,Sometimes,2,2,1,0,1,2,2,4,3,2,IT,0,0
+2026/07/16 04:50:00 PM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,6–7 hours,Rarely,Never,2–3,4,2,4,Once a week,Sometimes,2,2,2,1,2,2,1,2,2,0,IT,0,0
+2026/07/06 06:28:00 AM GMT+5:30,20.0,Male,Other,Other,More than 8 hours,5–6 hours,5–6 hours,Always,Sometimes,2–3,5,5,3,Once a week,Sometimes,1,2,2,2,4,1,2,3,3,2,IT,0,0
+2026/07/17 05:29:00 PM GMT+5:30,21.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,1–2 hours,More than 8 hours,Sometimes,Often,2–3,4,4,4,Never,Sometimes,2,2,2,2,2,3,3,2,2,3,IT,0,0
+2026/07/13 09:25:00 PM GMT+5:30,23.0,Male,Horizon Campus,First Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Very Often,0–1,4,4,5,More than 3 times a week,Often,3,0,3,2,1,4,3,2,2,2,IT,0,0
+2026/07/05 12:21:00 AM GMT+5:30,22.0,Female,Horizon Campus,Third Year,4–6 hours,5–6 hours,6–7 hours,Often,Rarely,4–5,1,5,5,2–3 times a week,Never,2,3,3,2,2,2,2,1,2,3,Technology,0,0
+2026/07/04 11:16:00 PM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,6–8 hours,3–4 hours,5–6 hours,Rarely,Rarely,2–3,4,3,3,Once a week,Sometimes,2,4,2,4,4,1,2,1,1,4,Management,0,0
+2026/07/06 10:10:00 AM GMT+5:30,22.0,Female,Horizon Campus,Other,4–6 hours,5–6 hours,Less than 5 hours,Always,Often,2–3,3,2,3,2–3 times a week,Rarely,1,0,3,2,2,2,2,2,2,2,Management,0,0
+2026/07/09 06:24:00 AM GMT+5:30,21.0,Male,South Eastern University of Sri Lanka,Second Year,6–8 hours,3–4 hours,7–8 hours,Always,Never,2–3,3,3,3,Never,Often,2,2,3,2,2,4,1,2,1,3,Technology,0,0
+2026/07/09 02:03:00 PM GMT+5:30,28.0,Female,Horizon Campus,Other,4–6 hours,More than 6 hours,5–6 hours,Sometimes,Often,0–1,3,3,3,Once a week,Often,1,4,2,2,2,2,4,3,1,2,Science,0,0
+2026/07/15 06:59:00 PM GMT+5:30,24.0,Female,University of Moratuwa,Other,More than 8 hours,3–4 hours,Less than 5 hours,Often,Sometimes,2–3,1,5,4,Once a week,Sometimes,2,2,3,0,2,2,3,2,2,3,Management,0,0
+2026/07/17 11:46:00 PM GMT+5:30,25.0,Male,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Often,0–1,4,5,4,2–3 times a week,Never,4,1,3,3,2,2,3,2,4,2,Science,0,0
+2026/07/04 09:29:00 PM GMT+5:30,21.0,Female,University of Ruhuna,Other,6–8 hours,3–4 hours,7–8 hours,Sometimes,Often,0–1,4,2,3,2–3 times a week,Sometimes,3,2,2,2,4,4,4,2,2,2,Medicine,0,0
+2026/07/17 01:30:00 AM GMT+5:30,23.0,Female,Wayamba University of Sri Lanka,Third Year,More than 8 hours,3–4 hours,Less than 5 hours,Always,Sometimes,0–1,5,5,3,Never,Sometimes,1,0,3,2,0,2,2,2,0,2,IT,0,0
+2026/07/08 07:35:00 PM GMT+5:30,25.0,Male,University of Kelaniya,Second Year,2–4 hours,Less than 1 hour,Less than 5 hours,Sometimes,Often,2–3,4,3,4,More than 3 times a week,Sometimes,3,2,1,0,2,2,2,1,3,2,Science,0,0
+2026/07/20 02:02:00 PM GMT+5:30,22.0,Male,Other,Fourth Year,6–8 hours,More than 6 hours,5–6 hours,Often,Often,0–1,4,3,4,Never,Sometimes,3,2,4,4,4,1,3,2,2,4,Science,0,0
+2026/07/19 01:55:00 AM GMT+5:30,25.0,Female,Horizon Campus,Other,4–6 hours,3–4 hours,7–8 hours,Often,Sometimes,2–3,5,4,3,2–3 times a week,Sometimes,2,4,4,2,3,2,1,2,2,2,IT,0,0
+2026/07/20 06:01:00 AM GMT+5:30,23.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,Less than 5 hours,Often,Often,2–3,3,1,4,More than 3 times a week,Sometimes,2,2,3,2,2,2,1,3,2,2,IT,0,0
+2026/07/16 04:36:00 PM GMT+5:30,24.0,Female,CINEC Campus,Fourth Year,2–4 hours,5–6 hours,5–6 hours,Sometimes,Often,4–5,5,5,3,Never,Sometimes,1,3,4,2,3,2,2,1,0,2,Management,0,0
+2026/07/13 08:06:00 PM GMT+5:30,23.0,Female,University of Peradeniya,Fourth Year,Less than 2 hours,Less than 1 hour,Less than 5 hours,Always,Often,0–1,4,5,2,2–3 times a week,Often,2,2,4,2,3,2,2,2,2,2,IT,0,0
+2026/07/09 07:23:00 AM GMT+5:30,28.0,Female,Uva Wellassa University,Other,2–4 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,3,5,2,Never,Often,2,4,4,3,0,4,2,2,3,3,Science,0,0
+2026/07/14 12:19:00 PM GMT+5:30,24.0,Male,Horizon Campus,Third Year,6–8 hours,1–2 hours,7–8 hours,Sometimes,Sometimes,2–3,4,4,3,Once a week,Sometimes,4,2,3,1,2,1,2,2,3,0,Science,0,0
+2026/07/17 04:49:00 PM GMT+5:30,22.0,Male,University of Colombo,Third Year,2–4 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,4,5,3,Once a week,Often,2,2,2,3,3,2,2,1,1,2,IT,0,0
+2026/07/10 02:55:00 PM GMT+5:30,26.0,Male,CINEC Campus,Third Year,6–8 hours,5–6 hours,6–7 hours,Sometimes,Rarely,2–3,3,5,4,Once a week,Often,1,2,4,4,2,0,1,3,2,4,Management,0,0
+2026/07/22 05:03:00 PM GMT+5:30,22.0,Male,Horizon Campus,Third Year,4–6 hours,3–4 hours,6–7 hours,Always,Sometimes,2–3,5,3,3,More than 3 times a week,Often,4,3,2,3,2,2,2,1,3,3,Management,0,0
+2026/07/24 01:45:00 AM GMT+5:30,25.0,Female,Horizon Campus,Second Year,6–8 hours,5–6 hours,5–6 hours,Always,Often,2–3,3,2,4,Once a week,Sometimes,3,2,4,3,2,2,1,4,3,2,Management,0,0
+2026/07/04 10:32:00 AM GMT+5:30,20.0,Female,University of Colombo,Third Year,More than 8 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,4,5,5,Once a week,Rarely,1,2,2,4,0,2,2,1,4,3,Medicine,0,0
+2026/07/21 01:24:00 PM GMT+5:30,22.0,Female,University of Sri Jayewardenepura,First Year,4–6 hours,5–6 hours,5–6 hours,Sometimes,Sometimes,0–1,3,5,4,2–3 times a week,Never,2,2,2,2,1,2,3,3,2,2,Science,0,0
+2026/07/22 03:05:00 PM GMT+5:30,25.0,Female,The Open University of Sri Lanka,Third Year,2–4 hours,3–4 hours,6–7 hours,Always,Very Often,0–1,5,2,5,More than 3 times a week,Rarely,2,2,3,2,1,2,2,3,2,3,Humanities_Social_Education,0,0
+2026/07/07 10:11:00 PM GMT+5:30,26.0,Female,Horizon Campus,Third Year,4–6 hours,1–2 hours,5–6 hours,Always,Often,0–1,5,5,4,Never,Sometimes,3,3,2,3,2,4,2,2,2,4,Medicine,0,0
+2026/07/20 04:16:00 AM GMT+5:30,25.0,Male,University of Moratuwa,Other,6–8 hours,1–2 hours,6–7 hours,Rarely,Sometimes,2–3,5,5,3,More than 3 times a week,Sometimes,2,1,3,2,2,1,2,4,4,2,Management,0,0
+2026/07/13 09:48:00 PM GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Always,Sometimes,More than 5,3,5,5,Never,Rarely,4,2,2,2,2,2,4,2,2,4,Management,0,0
+2026/07/12 12:49:00 AM GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,6–8 hours,3–4 hours,5–6 hours,Never,Sometimes,4–5,5,4,3,2–3 times a week,Sometimes,1,3,3,3,2,3,1,2,3,1,Other,0,0
+2026/07/10 02:45:00 PM GMT+5:30,21.0,Female,Horizon Campus,Fourth Year,2–4 hours,1–2 hours,Less than 5 hours,Often,Often,0–1,5,5,4,Never,Sometimes,2,3,2,0,2,3,2,3,2,2,IT,0,0
+2026/07/07 07:54:00 PM GMT+5:30,23.0,Male,University of Moratuwa,Other,6–8 hours,1–2 hours,5–6 hours,Sometimes,Often,4–5,1,2,3,Never,Sometimes,2,2,3,3,1,4,2,2,1,3,Management,0,0
+2026/07/09 04:35:00 AM GMT+5:30,23.0,Female,University of Ruhuna,Third Year,2–4 hours,1–2 hours,7–8 hours,Always,Sometimes,More than 5,3,4,3,Once a week,Often,1,4,4,4,3,4,4,3,1,2,IT,0,0
+2026/07/21 03:58:00 PM GMT+5:30,27.0,Female,Other,First Year,More than 8 hours,1–2 hours,Less than 5 hours,Always,Sometimes,2–3,5,4,1,Once a week,Often,2,2,4,2,2,2,2,3,3,0,IT,0,0
+2026/07/11 10:49:00 PM GMT+5:30,25.0,Female,Horizon Campus,First Year,More than 8 hours,5–6 hours,6–7 hours,Sometimes,Sometimes,2–3,3,5,3,Never,Sometimes,3,3,3,4,2,1,2,2,2,3,IT,0,0
+2026/07/06 02:49:00 PM GMT+5:30,21.0,Male,Sri Lanka Institute of Information Technology (SLIIT),Fourth Year,4–6 hours,5–6 hours,6–7 hours,Sometimes,Rarely,0–1,5,4,1,Never,Never,2,2,3,3,2,3,3,1,2,2,Science,0,0
+2026/07/06 09:39:00 AM GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,7–8 hours,Sometimes,Never,0–1,4,4,1,Once a week,Sometimes,1,3,3,1,2,2,4,2,2,2,Management,0,0
+2026/07/12 10:29:00 PM GMT+5:30,24.0,Male,University of Peradeniya,Other,4–6 hours,Less than 1 hour,5–6 hours,Always,Sometimes,0–1,5,3,5,2–3 times a week,Rarely,3,3,1,2,4,2,2,2,2,3,Agriculture,0,0
+2026/07/06 11:49:00 AM GMT+5:30,23.0,Male,Other,Third Year,Less than 2 hours,1–2 hours,5–6 hours,Sometimes,Often,2–3,2,3,4,Never,Rarely,4,2,2,3,3,2,2,3,3,2,IT,0,0
+2026/07/12 11:03:00 AM GMT+5:30,26.0,Female,Horizon Campus,Third Year,More than 8 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,2,4,4,Never,Often,4,2,2,3,1,2,4,3,3,2,Management,0,0
+2026/07/23 01:50:00 PM GMT+5:30,27.0,Female,Other,Third Year,6–8 hours,3–4 hours,Less than 5 hours,Often,Sometimes,2–3,5,3,2,Once a week,Never,2,0,3,2,2,2,2,1,1,2,IT,0,0
+2026/07/12 02:50:00 AM GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Sometimes,Often,4–5,5,3,3,Never,Sometimes,2,2,4,2,2,2,2,2,2,2,Management,0,0
+2026/07/18 12:42:00 AM GMT+5:30,23.0,Female,University of Colombo,Second Year,6–8 hours,5–6 hours,6–7 hours,Sometimes,Rarely,0–1,4,3,4,2–3 times a week,Often,4,3,4,2,2,3,3,3,4,2,Management,0,0
+2026/07/10 07:27:00 AM GMT+5:30,24.0,Female,Other,Other,2–4 hours,5–6 hours,More than 8 hours,Often,Rarely,2–3,1,5,4,2–3 times a week,Sometimes,2,1,4,2,4,2,1,2,3,2,Humanities_Social_Education,0,0
+2026/07/22 03:47:00 PM GMT+5:30,25.0,Male,Horizon Campus,Other,4–6 hours,5–6 hours,Less than 5 hours,Always,Often,2–3,1,5,4,Once a week,Rarely,4,4,2,1,1,3,2,4,3,2,Management,0,0
+2026/07/05 06:43:00 AM GMT+5:30,27.0,Male,Rajarata University of Sri Lanka,Third Year,2–4 hours,1–2 hours,6–7 hours,Often,Sometimes,2–3,5,5,4,Never,Rarely,1,3,3,2,2,2,0,2,2,3,Medicine,0,0
+2026/07/20 09:31:00 PM GMT+5:30,23.0,Male,Horizon Campus,Third Year,4–6 hours,1–2 hours,5–6 hours,Always,Often,4–5,3,4,3,2–3 times a week,Rarely,3,4,3,2,3,0,3,1,3,2,Science,0,0
+2026/07/14 05:54:00 PM GMT+5:30,24.0,Male,University of Sri Jayewardenepura,Third Year,More than 8 hours,3–4 hours,Less than 5 hours,Always,Sometimes,0–1,3,5,4,Once a week,Sometimes,4,1,3,4,2,2,2,2,3,2,IT,0,0
+2026/07/16 11:51:00 AM GMT+5:30,22.0,Female,Sabaragamuwa University of Sri Lanka,First Year,2–4 hours,3–4 hours,6–7 hours,Always,Often,0–1,5,5,5,2–3 times a week,Often,4,2,3,2,3,2,0,2,4,2,Technology,0,0
+2026/07/07 03:10:00 AM GMT+5:30,22.0,Female,University of Kelaniya,Third Year,2–4 hours,1–2 hours,5–6 hours,Always,Sometimes,2–3,4,3,3,Once a week,Sometimes,4,3,3,3,4,2,2,3,1,3,IT,0,0
+2026/07/12 09:43:00 PM GMT+5:30,26.0,Male,Horizon Campus,Second Year,4–6 hours,3–4 hours,5–6 hours,Always,Often,0–1,5,3,2,2–3 times a week,Sometimes,2,2,3,2,3,1,2,1,2,2,Humanities_Social_Education,0,0
+2026/07/06 02:02:00 AM GMT+5:30,27.0,Female,CINEC Campus,Fourth Year,4–6 hours,3–4 hours,7–8 hours,Always,Sometimes,2–3,3,3,4,Once a week,Rarely,2,0,2,1,3,0,3,3,2,2,Technology,0,0
+2026/07/16 08:29:00 PM GMT+5:30,24.0,Female,University of Kelaniya,Fourth Year,4–6 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,0–1,3,5,5,Once a week,Sometimes,2,3,1,1,2,2,2,4,3,2,Science,0,0
+2026/07/10 11:06:00 PM GMT+5:30,27.0,Male,Horizon Campus,Other,6–8 hours,5–6 hours,Less than 5 hours,Rarely,Rarely,2–3,5,4,4,More than 3 times a week,Often,3,2,2,1,2,2,2,3,3,1,Humanities_Social_Education,0,0
+2026/07/23 03:57:00 AM GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,4–6 hours,More than 6 hours,7–8 hours,Always,Sometimes,2–3,2,5,5,Once a week,Sometimes,2,1,4,2,2,4,2,3,2,1,IT,0,0
+2026/07/18 02:19:00 PM GMT+5:30,23.0,Female,University of Moratuwa,Second Year,More than 8 hours,More than 6 hours,6–7 hours,Rarely,Often,0–1,4,5,3,Once a week,Sometimes,4,3,4,4,2,2,2,2,4,1,Technology,0,0
+2026/07/18 08:47:00 AM GMT+5:30,25.0,Female,University of Kelaniya,Second Year,6–8 hours,5–6 hours,6–7 hours,Often,Sometimes,More than 5,5,5,5,Never,Often,2,2,3,2,1,3,1,1,0,3,Management,0,0
+2026/07/23 09:36:00 PM GMT+5:30,28.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,1–2 hours,6–7 hours,Always,Sometimes,2–3,3,5,3,Once a week,Sometimes,3,3,4,2,1,2,3,2,1,3,Science,0,0
+2026/07/12 12:30:00 PM GMT+5:30,24.0,Female,Rajarata University of Sri Lanka,Third Year,6–8 hours,5–6 hours,5–6 hours,Always,Sometimes,4–5,3,5,2,Once a week,Sometimes,2,2,3,2,2,2,0,4,2,2,Humanities_Social_Education,0,0
+2026/07/17 10:18:00 AM GMT+5:30,28.0,Female,Wayamba University of Sri Lanka,Fourth Year,6–8 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,5,3,1,Never,Rarely,4,1,2,3,1,2,2,4,1,3,Humanities_Social_Education,0,0
+2026/07/08 04:00:00 PM GMT+5:30,19.0,Female,Horizon Campus,Second Year,2–4 hours,3–4 hours,Less than 5 hours,Sometimes,Very Often,2–3,4,5,3,Never,Sometimes,3,2,2,3,2,2,2,4,4,2,Technology,0,1
+2026/07/20 07:47:00 AM GMT+5:30,26.0,Male,Horizon Campus,Third Year,6–8 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,2–3,4,3,3,Once a week,Rarely,2,1,0,3,2,3,2,3,3,3,Science,0,0
+2026/07/05 08:59:00 PM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,More than 8 hours,Less than 1 hour,7–8 hours,Always,Rarely,2–3,5,4,5,2–3 times a week,Sometimes,2,3,3,2,2,4,2,3,3,1,Management,0,0
+2026/07/05 08:01:00 AM GMT+5:30,24.0,Female,University of Colombo,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Always,Often,2–3,5,5,3,Once a week,Often,4,2,3,2,2,2,2,1,1,2,IT,0,0
+2026/07/19 08:08:00 AM GMT+5:30,25.0,Male,Horizon Campus,Other,Less than 2 hours,1–2 hours,6–7 hours,Always,Sometimes,2–3,4,4,2,Never,Often,3,0,1,4,2,1,1,2,3,2,IT,0,0
+2026/07/09 11:27:00 AM GMT+5:30,20.0,Female,University of Sri Jayewardenepura,Third Year,More than 8 hours,1–2 hours,6–7 hours,Always,Often,2–3,3,5,3,Once a week,Rarely,2,3,3,3,2,2,4,3,2,2,Medicine,0,0
+2026/07/21 09:11:00 PM GMT+5:30,24.0,Female,Wayamba University of Sri Lanka,Other,4–6 hours,3–4 hours,6–7 hours,Always,Often,More than 5,5,4,3,Never,Sometimes,1,2,4,4,2,2,0,2,3,3,Science,0,0
+2026/07/10 09:02:00 PM GMT+5:30,25.0,Male,Sri Lanka Institute of Information Technology (SLIIT),Second Year,More than 8 hours,3–4 hours,6–7 hours,Always,Often,2–3,3,5,1,Once a week,Often,4,3,4,2,0,2,2,3,3,3,IT,0,0
+2026/07/06 02:34:00 AM GMT+5:30,28.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,0–1,3,5,4,Never,Rarely,1,1,4,4,2,4,4,2,2,4,Technology,0,0
+2026/07/23 06:07:00 PM GMT+5:30,23.0,Male,University of Peradeniya,Third Year,More than 8 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,2–3,4,5,5,Never,Rarely,2,2,0,3,2,1,2,2,1,2,Science,0,0
+2026/07/09 02:08:00 PM GMT+5:30,23.0,Female,Horizon Campus,First Year,6–8 hours,3–4 hours,5–6 hours,Always,Very Often,0–1,4,4,3,Never,Sometimes,3,2,0,2,2,3,2,2,4,1,Management,0,0
+2026/07/24 12:12:00 AM GMT+5:30,23.0,Male,The Open University of Sri Lanka,Third Year,More than 8 hours,Less than 1 hour,5–6 hours,Sometimes,Rarely,2–3,3,3,4,Once a week,Often,1,2,3,2,3,1,1,2,3,3,Science,0,0
+2026/07/06 02:09:00 PM GMT+5:30,26.0,Female,Horizon Campus,Second Year,More than 8 hours,3–4 hours,6–7 hours,Always,Very Often,2–3,5,5,4,Never,Rarely,3,2,4,3,2,3,3,3,2,4,IT,0,0
+2026/07/12 10:35:00 PM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,More than 8 hours,1–2 hours,6–7 hours,Often,Sometimes,2–3,3,3,4,Once a week,Sometimes,4,4,4,4,1,0,2,2,3,3,IT,0,0
+2026/07/10 02:48:00 PM GMT+5:30,23.0,Female,University of Moratuwa,Third Year,More than 8 hours,3–4 hours,7–8 hours,Always,Often,2–3,3,4,4,Once a week,Sometimes,2,3,4,2,3,3,2,3,2,3,Science,0,0
+2026/07/14 02:37:00 PM GMT+5:30,26.0,Male,Horizon Campus,Second Year,4–6 hours,More than 6 hours,6–7 hours,Often,Often,2–3,3,2,4,Once a week,Often,2,2,3,2,3,4,2,2,2,3,IT,0,0
+2026/07/18 06:10:00 PM GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,Less than 5 hours,Rarely,Often,0–1,2,3,4,Never,Sometimes,2,2,4,1,3,2,3,3,3,1,IT,0,0
+2026/07/23 06:32:00 AM GMT+5:30,27.0,Female,NSBM Green University,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Often,Sometimes,4–5,5,4,3,2–3 times a week,Never,2,2,0,3,2,2,2,3,2,0,Technology,0,0
+2026/07/12 02:14:00 PM GMT+5:30,23.0,Male,NSBM Green University,Third Year,4–6 hours,Less than 1 hour,6–7 hours,Always,Often,0–1,5,4,5,Never,Rarely,2,0,1,3,2,2,0,3,3,2,IT,0,0
+2026/07/07 11:49:00 PM GMT+5:30,24.0,Female,University of Ruhuna,Fourth Year,2–4 hours,Less than 1 hour,5–6 hours,Often,Sometimes,0–1,5,3,3,Once a week,Rarely,2,2,2,3,2,2,2,1,2,2,IT,0,0
+2026/07/12 05:10:00 PM GMT+5:30,24.0,Female,NSBM Green University,Third Year,6–8 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,4,5,4,Never,Sometimes,1,0,3,2,3,3,2,2,2,4,Agriculture,0,0
+2026/07/12 09:01:00 AM GMT+5:30,21.0,Male,University of Sri Jayewardenepura,Third Year,Less than 2 hours,5–6 hours,5–6 hours,Sometimes,Very Often,2–3,5,5,3,Never,Sometimes,2,3,2,3,2,2,2,1,2,3,IT,0,0
+2026/07/09 01:25:00 AM GMT+5:30,25.0,Female,Horizon Campus,First Year,2–4 hours,1–2 hours,6–7 hours,Often,Sometimes,2–3,4,5,4,Once a week,Never,3,2,4,2,2,3,2,2,0,3,IT,0,0
+2026/07/19 01:00:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,More than 8 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,2,3,5,Once a week,Sometimes,4,1,4,0,0,2,2,3,3,2,Humanities_Social_Education,0,0
+2026/07/10 08:48:00 AM GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,5,3,3,2–3 times a week,Often,3,3,2,3,2,2,3,3,4,2,Science,0,0
+2026/07/20 06:17:00 AM GMT+5:30,24.0,Male,Sabaragamuwa University of Sri Lanka,Third Year,More than 8 hours,3–4 hours,5–6 hours,Often,Rarely,2–3,5,5,3,Once a week,Sometimes,2,4,3,3,1,2,1,2,2,1,Technology,0,0
+2026/07/19 08:18:00 PM GMT+5:30,21.0,Female,University of Sri Jayewardenepura,Other,More than 8 hours,5–6 hours,More than 8 hours,Always,Often,2–3,5,4,3,More than 3 times a week,Sometimes,4,0,2,3,1,4,4,3,2,1,Medicine,0,0
+2026/07/19 12:54:00 AM GMT+5:30,24.0,Female,Horizon Campus,Third Year,6–8 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,4,4,4,Never,Sometimes,3,2,2,1,2,2,1,3,0,2,IT,0,0
+2026/07/05 09:59:00 PM GMT+5:30,24.0,Male,Other,First Year,2–4 hours,1–2 hours,6–7 hours,Always,Very Often,4–5,4,5,5,Never,Sometimes,4,2,1,4,2,2,1,2,2,2,Other,0,0
+2026/07/18 03:40:00 AM GMT+5:30,23.0,Male,General Sir John Kotelawala Defence University,Fourth Year,2–4 hours,5–6 hours,5–6 hours,Sometimes,Very Often,0–1,5,2,3,Never,Very Often,4,4,2,3,2,3,3,2,2,1,Science,0,0
+2026/07/18 05:46:00 PM GMT+5:30,24.0,Female,Horizon Campus,Third Year,4–6 hours,5–6 hours,6–7 hours,Sometimes,Sometimes,2–3,4,5,5,Never,Sometimes,1,2,3,4,3,3,1,2,3,2,Science,0,0
+2026/07/08 04:27:00 AM GMT+5:30,25.0,Female,University of Sri Jayewardenepura,Third Year,6–8 hours,3–4 hours,5–6 hours,Sometimes,Often,4–5,5,5,3,Once a week,Sometimes,3,2,2,3,3,2,2,4,2,4,Medicine,0,0
+2026/07/16 10:42:00 AM GMT+5:30,28.0,Female,Other,Third Year,6–8 hours,5–6 hours,5–6 hours,Often,Often,More than 5,3,4,4,Once a week,Sometimes,2,2,3,3,1,2,2,3,4,2,Science,0,0
+2026/07/20 09:12:00 PM GMT+5:30,25.0,Female,University of Kelaniya,Fourth Year,4–6 hours,3–4 hours,6–7 hours,Often,Often,2–3,3,3,2,Never,Sometimes,3,2,0,2,4,2,2,2,3,3,Medicine,0,0
+2026/07/09 08:41:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,5–6 hours,5–6 hours,Always,Sometimes,2–3,3,5,3,More than 3 times a week,Sometimes,2,4,2,3,3,0,2,2,2,4,Science,0,0
+2026/07/08 12:14:00 AM GMT+5:30,24.0,Female,Sri Lanka Institute of Information Technology (SLIIT),Other,4–6 hours,5–6 hours,5–6 hours,Sometimes,Very Often,2–3,4,4,4,2–3 times a week,Often,1,2,2,2,2,2,2,3,2,3,IT,0,0
+2026/07/14 07:27:00 PM GMT+5:30,20.0,Female,CINEC Campus,Third Year,4–6 hours,More than 6 hours,5–6 hours,Always,Often,More than 5,3,4,3,Never,Sometimes,2,3,2,1,2,2,4,1,2,2,IT,0,0
+2026/07/12 10:13:00 PM GMT+5:30,24.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,3–4 hours,5–6 hours,Often,Sometimes,4–5,3,5,3,Never,Sometimes,2,3,4,2,1,2,2,2,1,3,IT,0,0
+2026/07/10 10:25:00 AM GMT+5:30,25.0,Male,NSBM Green University,Fourth Year,More than 8 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,4,5,3,Never,Sometimes,4,2,4,1,2,2,2,2,4,2,Medicine,0,0
+2026/07/18 08:31:00 PM GMT+5:30,30.0,Male,Sabaragamuwa University of Sri Lanka,Other,6–8 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,3,4,3,Never,Very Often,3,2,4,3,2,1,2,1,2,2,Technology,0,1
+2026/07/19 10:49:00 PM GMT+5:30,24.0,Male,NSBM Green University,Third Year,Less than 2 hours,3–4 hours,Less than 5 hours,Often,Sometimes,0–1,4,5,4,Never,Sometimes,2,4,3,3,3,2,2,2,2,0,IT,0,0
+2026/07/16 11:10:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Always,Often,2–3,3,2,4,Once a week,Sometimes,3,2,3,3,2,2,2,2,4,1,Medicine,0,0
+2026/07/09 06:56:00 AM GMT+5:30,24.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,Less than 1 hour,6–7 hours,Sometimes,Sometimes,2–3,1,3,4,Never,Rarely,4,4,3,2,4,2,2,4,3,3,Other,0,0
+2026/07/19 08:53:00 PM GMT+5:30,22.0,Male,University of Kelaniya,Other,6–8 hours,3–4 hours,5–6 hours,Always,Sometimes,4–5,4,2,3,Never,Rarely,2,1,4,2,3,2,2,3,2,2,Agriculture,0,0
+2026/07/11 04:06:00 PM GMT+5:30,27.0,Male,Horizon Campus,Fourth Year,6–8 hours,3–4 hours,7–8 hours,Always,Often,0–1,2,5,3,More than 3 times a week,Sometimes,4,2,3,2,2,2,2,2,2,2,IT,0,0
+2026/07/23 11:18:00 AM GMT+5:30,26.0,Female,University of Colombo,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,4–5,5,2,4,Once a week,Sometimes,2,3,2,3,4,1,1,2,2,2,IT,0,0
+2026/07/21 06:36:00 PM GMT+5:30,26.0,Male,CINEC Campus,Second Year,2–4 hours,1–2 hours,5–6 hours,Always,Never,4–5,2,5,1,More than 3 times a week,Often,4,3,4,3,2,1,3,2,3,3,Science,0,0
+2026/07/21 10:47:00 PM GMT+5:30,22.0,Male,CINEC Campus,Other,4–6 hours,5–6 hours,6–7 hours,Always,Sometimes,0–1,5,5,3,Never,Sometimes,4,2,1,4,2,4,2,2,0,1,IT,0,0
+2026/07/05 01:32:00 PM GMT+5:30,27.0,Male,Other,Fourth Year,2–4 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,3,5,2,Never,Often,2,1,2,2,2,1,2,1,2,3,Science,0,0
+2026/07/09 12:05:00 PM GMT+5:30,21.0,Male,Horizon Campus,Second Year,2–4 hours,1–2 hours,5–6 hours,Always,Sometimes,0–1,4,5,4,Once a week,Rarely,2,1,2,2,2,3,2,2,3,1,IT,0,0
+2026/07/22 11:48:00 PM GMT+5:30,26.0,Female,National Institute of Business Management (NIBM),Third Year,4–6 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,2–3,5,4,4,Never,Sometimes,2,2,3,2,2,2,1,1,2,2,Other,0,0
+2026/07/05 12:31:00 AM GMT+5:30,29.0,Female,University of Peradeniya,Third Year,4–6 hours,3–4 hours,7–8 hours,Always,Sometimes,0–1,4,4,4,Never,Sometimes,4,3,4,1,2,1,2,4,3,2,IT,0,1
+2026/07/22 02:39:00 PM GMT+5:30,22.0,Male,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,6–7 hours,Always,Often,2–3,1,5,3,Once a week,Sometimes,3,1,4,3,2,1,2,2,2,2,IT,0,0
+2026/07/11 11:16:00 AM GMT+5:30,23.0,Male,Sabaragamuwa University of Sri Lanka,Third Year,6–8 hours,3–4 hours,6–7 hours,Sometimes,Never,0–1,3,4,3,Once a week,Rarely,3,0,3,2,2,1,1,2,1,2,Technology,0,0
+2026/07/13 10:05:00 AM GMT+5:30,25.0,Female,Sri Lanka Institute of Information Technology (SLIIT),Fourth Year,4–6 hours,1–2 hours,More than 8 hours,Always,Sometimes,2–3,3,5,4,Once a week,Sometimes,2,3,2,3,1,2,2,3,3,2,Management,0,0
+2026/07/10 09:13:00 AM GMT+5:30,23.0,Female,Other,First Year,Less than 2 hours,1–2 hours,5–6 hours,Always,Often,2–3,2,4,3,Once a week,Sometimes,2,2,4,2,1,2,2,4,3,0,Management,0,0
+2026/07/05 07:08:00 PM GMT+5:30,21.0,Female,University of Kelaniya,Third Year,4–6 hours,3–4 hours,5–6 hours,Always,Often,2–3,4,5,2,Once a week,Rarely,2,2,1,0,2,1,2,1,2,2,IT,0,0
+2026/07/09 02:13:00 AM GMT+5:30,25.0,Male,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,5–6 hours,Always,Very Often,2–3,5,3,4,Never,Very Often,2,0,3,3,2,1,4,2,2,4,Humanities_Social_Education,0,0
+2026/07/17 04:45:00 AM GMT+5:30,22.0,Male,Horizon Campus,Fourth Year,Less than 2 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,0–1,4,3,3,Never,Sometimes,3,2,2,2,2,0,1,3,2,2,Science,0,0
+2026/07/24 05:36:00 AM GMT+5:30,25.0,Female,Horizon Campus,Second Year,4–6 hours,5–6 hours,6–7 hours,Always,Sometimes,0–1,4,4,4,Never,Never,4,3,3,3,2,2,3,3,4,0,IT,0,0
+2026/07/20 03:04:00 PM GMT+5:30,22.0,Female,University of Moratuwa,Third Year,4–6 hours,More than 6 hours,7–8 hours,Sometimes,Sometimes,2–3,4,5,3,Never,Sometimes,3,2,3,2,1,2,2,4,2,3,Management,0,0
+2026/07/11 10:51:00 AM GMT+5:30,28.0,Female,Horizon Campus,Fourth Year,4–6 hours,1–2 hours,Less than 5 hours,Sometimes,Often,2–3,5,5,4,More than 3 times a week,Sometimes,2,2,1,0,3,2,2,2,4,4,Medicine,0,0
+2026/07/09 03:07:00 AM GMT+5:30,23.0,Male,Horizon Campus,Third Year,4–6 hours,More than 6 hours,6–7 hours,Often,Very Often,2–3,4,3,4,Once a week,Sometimes,1,2,4,2,2,1,0,3,2,2,Medicine,0,0
+2026/07/19 04:57:00 AM GMT+5:30,24.0,Male,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,2–3,4,5,2,2–3 times a week,Sometimes,4,0,4,3,2,2,0,1,2,1,Management,0,0
+2026/07/15 03:38:00 PM GMT+5:30,26.0,Male,University of Sri Jayewardenepura,First Year,2–4 hours,1–2 hours,Less than 5 hours,Always,Sometimes,2–3,4,5,5,Never,Sometimes,1,2,3,2,2,2,2,2,3,4,Technology,0,0
+2026/07/13 07:04:00 AM GMT+5:30,22.0,Female,Sabaragamuwa University of Sri Lanka,First Year,4–6 hours,3–4 hours,7–8 hours,Rarely,Very Often,4–5,4,5,4,Once a week,Sometimes,3,3,4,4,3,0,1,3,2,2,Technology,0,0
+2026/07/18 10:04:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,6–8 hours,5–6 hours,Less than 5 hours,Always,Very Often,2–3,2,4,4,Never,Never,2,2,2,4,2,2,2,2,2,2,IT,0,0
+2026/07/14 05:35:00 PM GMT+5:30,27.0,Female,Horizon Campus,First Year,Less than 2 hours,More than 6 hours,5–6 hours,Sometimes,Never,2–3,3,4,2,Never,Often,2,2,2,3,0,1,2,2,2,2,Science,0,0
+2026/07/07 01:01:00 PM GMT+5:30,21.0,Female,University of Colombo,Fourth Year,More than 8 hours,3–4 hours,6–7 hours,Often,Often,2–3,2,3,3,Never,Rarely,4,2,2,3,1,2,3,2,3,4,IT,0,0
+2026/07/10 07:39:00 AM GMT+5:30,25.0,Male,Other,Second Year,2–4 hours,5–6 hours,5–6 hours,Always,Sometimes,2–3,5,5,3,2–3 times a week,Sometimes,2,3,3,1,2,1,2,4,3,3,Science,0,0
+2026/07/07 11:15:00 AM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Often,Often,2–3,4,5,3,Once a week,Sometimes,2,2,4,2,3,2,4,2,2,3,Agriculture,0,0
+2026/07/09 09:41:00 PM GMT+5:30,26.0,Prefer not to say,Other,Fourth Year,2–4 hours,1–2 hours,5–6 hours,Sometimes,Often,0–1,3,3,3,Once a week,Sometimes,3,2,2,2,4,4,2,2,3,2,Medicine,0,0
+2026/07/21 05:51:00 AM GMT+5:30,22.0,Prefer not to say,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Always,Sometimes,2–3,4,3,4,Once a week,Rarely,3,2,3,2,3,4,2,3,2,2,IT,0,0
+2026/07/17 01:34:00 AM GMT+5:30,22.0,Female,Horizon Campus,Fourth Year,6–8 hours,More than 6 hours,6–7 hours,Always,Often,2–3,4,5,4,More than 3 times a week,Never,3,2,3,0,2,2,4,2,2,1,IT,0,0
+2026/07/16 01:21:00 PM GMT+5:30,26.0,Male,Other,Third Year,4–6 hours,1–2 hours,5–6 hours,Sometimes,Often,2–3,4,4,4,Never,Sometimes,2,0,3,2,2,2,4,3,2,2,IT,0,0
+2026/07/10 06:29:00 AM GMT+5:30,25.0,Male,Horizon Campus,Third Year,More than 8 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,4,5,3,Never,Sometimes,2,0,3,4,1,2,2,1,1,3,IT,0,0
+2026/07/21 06:58:00 AM GMT+5:30,25.0,Male,Sabaragamuwa University of Sri Lanka,Third Year,6–8 hours,3–4 hours,6–7 hours,Rarely,Often,2–3,4,2,5,Never,Sometimes,3,2,2,3,3,3,2,1,2,4,Management,0,0
+2026/07/17 02:15:00 PM GMT+5:30,25.0,Female,Horizon Campus,Other,4–6 hours,3–4 hours,5–6 hours,Sometimes,Often,More than 5,5,5,3,2–3 times a week,Sometimes,1,3,4,2,3,4,3,3,2,2,Medicine,0,0
+2026/07/14 12:58:00 AM GMT+5:30,23.0,Female,University of Sri Jayewardenepura,Third Year,6–8 hours,3–4 hours,5–6 hours,Rarely,Rarely,0–1,3,2,4,More than 3 times a week,Sometimes,4,1,3,2,4,2,2,3,2,3,Humanities_Social_Education,0,0
+2026/07/17 01:41:00 PM GMT+5:30,25.0,Female,University of Kelaniya,Fourth Year,6–8 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,0–1,4,4,4,Never,Rarely,1,2,3,2,4,3,0,2,2,2,Management,0,0
+2026/07/13 09:07:00 AM GMT+5:30,25.0,Male,Horizon Campus,First Year,More than 8 hours,Less than 1 hour,Less than 5 hours,Always,Sometimes,2–3,4,4,3,2–3 times a week,Rarely,4,4,2,2,4,2,4,4,3,3,Management,0,0
+2026/07/12 12:41:00 PM GMT+5:30,23.0,Female,University of Ruhuna,Third Year,2–4 hours,1–2 hours,5–6 hours,Always,Often,2–3,3,5,3,2–3 times a week,Sometimes,3,0,4,2,2,1,2,2,2,2,Technology,0,0
+2026/07/09 06:46:00 AM GMT+5:30,28.0,Female,Horizon Campus,Fourth Year,2–4 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,4,4,3,Never,Sometimes,2,2,3,2,3,0,2,1,2,3,Technology,0,0
+2026/07/07 10:32:00 AM GMT+5:30,25.0,Male,Uva Wellassa University,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Often,Often,0–1,5,5,5,Once a week,Very Often,3,2,2,1,1,2,2,2,3,2,Science,0,0
+2026/07/15 09:16:00 PM GMT+5:30,22.0,Female,Horizon Campus,Second Year,6–8 hours,Less than 1 hour,7–8 hours,Always,Often,0–1,3,5,2,Once a week,Sometimes,3,0,2,0,1,2,4,4,2,2,Science,0,0
+2026/07/15 12:31:00 PM GMT+5:30,26.0,Female,Horizon Campus,Third Year,6–8 hours,5–6 hours,6–7 hours,Always,Sometimes,2–3,4,4,4,More than 3 times a week,Sometimes,3,3,3,2,3,2,2,1,4,3,Humanities_Social_Education,0,0
+2026/07/06 08:38:00 AM GMT+5:30,22.0,Female,Horizon Campus,Other,4–6 hours,3–4 hours,6–7 hours,Rarely,Often,2–3,4,2,3,Never,Sometimes,3,2,3,2,2,2,2,1,3,2,Humanities_Social_Education,0,0
+2026/07/21 11:45:00 AM GMT+5:30,26.0,Male,"Eastern University, Sri Lanka",Second Year,4–6 hours,5–6 hours,5–6 hours,Often,Often,2–3,5,4,4,2–3 times a week,Sometimes,3,2,4,2,1,2,2,2,2,3,Technology,0,0
+2026/07/05 08:43:00 AM GMT+5:30,27.0,Female,Other,First Year,2–4 hours,1–2 hours,6–7 hours,Often,Sometimes,4–5,4,3,5,Never,Sometimes,2,2,2,3,1,2,3,2,3,2,Management,0,0
+2026/07/23 09:16:00 PM GMT+5:30,23.0,Male,University of Kelaniya,Other,4–6 hours,3–4 hours,5–6 hours,Often,Rarely,0–1,5,5,5,2–3 times a week,Often,3,3,2,4,2,2,2,3,2,3,Medicine,0,0
+2026/07/06 06:52:00 PM GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Always,Very Often,2–3,3,5,3,Once a week,Sometimes,2,4,4,2,2,2,2,1,3,2,Technology,0,0
+2026/07/07 06:28:00 PM GMT+5:30,25.0,Male,University of Colombo,Fourth Year,4–6 hours,1–2 hours,7–8 hours,Always,Often,2–3,4,5,3,Once a week,Sometimes,4,0,4,2,2,2,4,2,2,3,Management,0,0
+2026/07/18 01:40:00 PM GMT+5:30,26.0,Female,Horizon Campus,Second Year,4–6 hours,3–4 hours,6–7 hours,Always,Often,0–1,5,4,4,2–3 times a week,Rarely,2,2,3,4,2,3,4,4,2,2,Management,0,0
+2026/07/07 10:22:00 PM GMT+5:30,28.0,Female,Rajarata University of Sri Lanka,Fourth Year,4–6 hours,More than 6 hours,7–8 hours,Always,Sometimes,2–3,5,2,3,2–3 times a week,Sometimes,2,3,2,3,2,2,1,1,3,2,Technology,0,0
+2026/07/22 07:34:00 AM GMT+5:30,24.0,Male,Horizon Campus,Third Year,Less than 2 hours,Less than 1 hour,Less than 5 hours,Sometimes,Rarely,2–3,4,4,3,2–3 times a week,Often,2,3,3,2,2,1,2,2,1,2,Management,0,0
+2026/07/19 06:38:00 PM GMT+5:30,23.0,Female,Horizon Campus,Second Year,More than 8 hours,5–6 hours,5–6 hours,Always,Often,2–3,5,5,3,Never,Often,3,2,3,3,3,3,2,1,0,1,Agriculture,0,0
+2026/07/13 09:33:00 PM GMT+5:30,23.0,Female,Horizon Campus,Other,More than 8 hours,1–2 hours,7–8 hours,Sometimes,Often,0–1,4,5,4,Once a week,Sometimes,2,2,4,2,3,2,3,3,3,2,IT,0,0
+2026/07/17 08:43:00 PM GMT+5:30,23.0,Female,Other,Fourth Year,6–8 hours,1–2 hours,5–6 hours,Sometimes,Very Often,2–3,5,4,5,Never,Often,2,0,4,2,3,2,2,2,2,4,Other,0,0
+2026/07/05 05:41:00 PM GMT+5:30,24.0,Male,University of Sri Jayewardenepura,Third Year,4–6 hours,5–6 hours,6–7 hours,Always,Sometimes,2–3,4,5,1,Once a week,Sometimes,3,1,0,4,1,1,4,2,2,4,Technology,0,0
+2026/07/13 01:08:00 AM GMT+5:30,25.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,5–6 hours,Often,Very Often,4–5,5,3,4,Once a week,Very Often,2,3,2,4,2,4,3,3,2,2,IT,0,0
+2026/07/12 11:24:00 PM GMT+5:30,25.0,Male,Wayamba University of Sri Lanka,Third Year,6–8 hours,3–4 hours,5–6 hours,Often,Sometimes,2–3,4,3,4,Once a week,Sometimes,1,3,3,2,2,2,2,1,3,3,Management,0,0
+2026/07/17 08:26:00 PM GMT+5:30,26.0,Female,Other,Fourth Year,More than 8 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,2–3,3,4,3,Once a week,Very Often,1,2,3,1,1,2,4,2,2,2,IT,0,0
+2026/07/14 10:37:00 PM GMT+5:30,24.0,Female,Other,Third Year,4–6 hours,Less than 1 hour,5–6 hours,Always,Sometimes,2–3,4,5,4,More than 3 times a week,Rarely,3,3,4,2,2,2,4,3,1,2,Management,0,0
+2026/07/16 07:58:00 AM GMT+5:30,28.0,Female,Other,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Often,Never,2–3,5,5,3,Never,Sometimes,2,3,2,4,0,3,2,3,2,3,Humanities_Social_Education,0,0
+2026/07/10 12:18:00 AM GMT+5:30,24.0,Female,Horizon Campus,First Year,4–6 hours,3–4 hours,6–7 hours,Often,Very Often,0–1,5,5,4,Once a week,Sometimes,4,3,2,3,1,2,2,3,2,3,IT,0,0
+2026/07/16 09:08:00 PM GMT+5:30,30.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,5–6 hours,5–6 hours,Always,Often,2–3,3,5,3,Once a week,Very Often,2,0,4,1,2,2,2,2,2,3,Agriculture,0,1
+2026/07/23 09:06:00 PM GMT+5:30,26.0,Female,Horizon Campus,First Year,2–4 hours,3–4 hours,5–6 hours,Always,Often,2–3,5,5,3,Never,Often,3,3,4,1,0,3,2,1,1,2,Other,0,0
+2026/07/04 01:16:00 PM GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Often,Often,0–1,3,4,3,Never,Sometimes,2,2,4,2,2,3,2,2,3,2,IT,0,0
+2026/07/19 06:31:00 PM GMT+5:30,22.0,Male,The Open University of Sri Lanka,Second Year,6–8 hours,3–4 hours,5–6 hours,Sometimes,Rarely,0–1,3,4,3,More than 3 times a week,Rarely,1,4,3,1,2,2,3,2,3,2,IT,0,0
+2026/07/20 04:36:00 PM GMT+5:30,25.0,Female,General Sir John Kotelawala Defence University,Other,6–8 hours,3–4 hours,Less than 5 hours,Always,Often,0–1,3,5,3,2–3 times a week,Sometimes,2,2,4,4,3,2,4,2,2,3,Science,0,0
+2026/07/06 09:33:00 PM GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,6–8 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,4,5,3,2–3 times a week,Sometimes,3,2,4,4,2,3,2,3,4,2,Medicine,0,0
+2026/07/19 07:18:00 PM GMT+5:30,26.0,Male,Horizon Campus,Other,2–4 hours,1–2 hours,Less than 5 hours,Always,Sometimes,2–3,5,5,1,More than 3 times a week,Sometimes,4,2,3,2,4,2,2,1,2,3,Science,0,0
+2026/07/16 12:15:00 PM GMT+5:30,25.0,Female,University of Ruhuna,Second Year,More than 8 hours,3–4 hours,6–7 hours,Sometimes,Often,0–1,3,5,4,Never,Sometimes,3,2,2,4,2,2,3,2,1,2,Humanities_Social_Education,0,0
+2026/07/21 09:04:00 AM GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,Less than 1 hour,6–7 hours,Always,Often,2–3,1,3,4,Never,Often,2,4,3,1,3,4,2,1,3,2,Science,0,0
+2026/07/10 08:43:00 AM GMT+5:30,23.0,Male,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,6–7 hours,Sometimes,Sometimes,4–5,3,5,2,Once a week,Sometimes,1,3,1,2,3,2,1,2,2,2,IT,0,0
+2026/07/21 06:45:00 PM GMT+5:30,21.0,Male,Horizon Campus,Fourth Year,4–6 hours,Less than 1 hour,5–6 hours,Always,Sometimes,4–5,5,5,1,Once a week,Often,3,4,3,1,3,3,2,3,3,2,IT,0,0
+2026/07/18 09:03:00 PM GMT+5:30,23.0,Female,NSBM Green University,Other,2–4 hours,3–4 hours,5–6 hours,Always,Very Often,4–5,4,5,4,Once a week,Sometimes,3,3,2,2,2,4,2,0,3,2,Medicine,0,0
+2026/07/12 12:46:00 AM GMT+5:30,26.0,Male,University of Ruhuna,Other,6–8 hours,1–2 hours,Less than 5 hours,Always,Sometimes,2–3,5,3,5,Never,Sometimes,2,2,3,2,2,2,2,1,2,1,IT,0,0
+2026/07/06 07:55:00 PM GMT+5:30,25.0,Female,Horizon Campus,Other,4–6 hours,More than 6 hours,6–7 hours,Always,Often,2–3,3,4,3,Once a week,Sometimes,3,4,4,3,1,2,1,2,1,4,Technology,0,0
+2026/07/10 11:17:00 PM GMT+5:30,22.0,Female,Horizon Campus,Fourth Year,More than 8 hours,5–6 hours,Less than 5 hours,Often,Never,0–1,5,5,3,Once a week,Sometimes,2,2,3,3,2,3,2,3,3,3,IT,0,0
+2026/07/14 04:26:00 AM GMT+5:30,25.0,Female,Horizon Campus,Other,4–6 hours,3–4 hours,Less than 5 hours,Always,Sometimes,2–3,5,4,4,Never,Sometimes,2,2,3,3,1,4,1,2,2,2,Management,0,0
+2026/07/07 09:22:00 PM GMT+5:30,25.0,Male,University of Ruhuna,Third Year,More than 8 hours,3–4 hours,Less than 5 hours,Sometimes,Sometimes,2–3,3,3,4,Once a week,Sometimes,2,3,2,2,3,4,2,2,2,2,Technology,0,0
+2026/07/14 02:47:00 PM GMT+5:30,23.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,7–8 hours,Always,Often,4–5,5,2,4,Once a week,Rarely,4,2,1,1,1,1,2,1,2,4,Humanities_Social_Education,0,0
+2026/07/04 08:46:00 AM GMT+5:30,25.0,Female,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,6–7 hours,Always,Very Often,4–5,3,5,3,Once a week,Sometimes,2,2,3,2,3,2,2,1,3,2,Humanities_Social_Education,0,0
+2026/07/20 05:21:00 PM GMT+5:30,25.0,Female,University of Moratuwa,Third Year,2–4 hours,1–2 hours,5–6 hours,Always,Often,2–3,5,3,3,Never,Sometimes,2,3,3,2,2,3,4,2,2,0,IT,0,0
+2026/07/24 05:19:00 AM GMT+5:30,22.0,Female,Horizon Campus,Third Year,More than 8 hours,1–2 hours,6–7 hours,Always,Never,2–3,4,2,4,2–3 times a week,Sometimes,3,3,4,2,3,2,4,4,4,2,Science,0,0
+2026/07/20 04:02:00 PM GMT+5:30,25.0,Female,University of Ruhuna,Third Year,2–4 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,5,2,3,Never,Often,4,2,2,3,4,2,2,3,2,2,Science,0,0
+2026/07/10 06:50:00 AM GMT+5:30,26.0,Female,Horizon Campus,Other,2–4 hours,5–6 hours,6–7 hours,Always,Often,0–1,3,4,4,Never,Never,2,0,1,1,2,2,2,2,0,4,IT,0,0
+2026/07/15 04:23:00 PM GMT+5:30,27.0,Female,Horizon Campus,Third Year,4–6 hours,Less than 1 hour,6–7 hours,Often,Often,4–5,4,4,4,2–3 times a week,Sometimes,3,3,3,3,0,2,2,3,3,2,Management,0,0
+2026/07/21 03:07:00 PM GMT+5:30,27.0,Female,Horizon Campus,Fourth Year,6–8 hours,1–2 hours,6–7 hours,Always,Very Often,2–3,4,5,4,Once a week,Sometimes,2,1,4,4,2,1,2,3,4,3,Technology,0,0
+2026/07/08 08:34:00 AM GMT+5:30,21.0,Female,NSBM Green University,Third Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,2–3,2,3,5,Never,Sometimes,2,2,3,2,2,2,2,3,2,3,IT,0,0
+2026/07/15 08:15:00 PM GMT+5:30,22.0,Male,The Open University of Sri Lanka,Third Year,2–4 hours,More than 6 hours,5–6 hours,Often,Very Often,4–5,4,4,2,Once a week,Never,2,3,3,3,2,2,4,3,2,2,Science,0,0
+2026/07/06 05:06:00 PM GMT+5:30,26.0,Female,University of Peradeniya,Third Year,6–8 hours,3–4 hours,6–7 hours,Always,Often,2–3,5,4,4,Once a week,Sometimes,4,1,4,3,0,2,4,3,2,2,Technology,0,0
+2026/07/24 02:25:00 AM GMT+5:30,26.0,Female,Horizon Campus,Third Year,2–4 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,5,5,5,2–3 times a week,Sometimes,2,3,2,3,2,1,2,2,3,3,Management,0,0
+2026/07/18 12:29:00 PM GMT+5:30,26.0,Male,University of Ruhuna,Fourth Year,4–6 hours,3–4 hours,7–8 hours,Rarely,Sometimes,More than 5,5,3,4,2–3 times a week,Sometimes,2,4,4,2,4,1,2,1,1,3,IT,0,0
+2026/07/11 01:59:00 AM GMT+5:30,30.0,Female,Horizon Campus,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Often,Very Often,2–3,5,3,3,Once a week,Sometimes,2,2,3,3,4,2,4,3,2,2,Technology,0,1
+2026/07/23 10:39:00 AM GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,2–4 hours,1–2 hours,5–6 hours,Often,Sometimes,0–1,4,5,3,Once a week,Sometimes,4,2,2,3,2,2,1,2,2,4,Medicine,0,0
+2026/07/18 07:57:00 PM GMT+5:30,27.0,Female,Rajarata University of Sri Lanka,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Always,Sometimes,2–3,5,3,3,Never,Often,2,2,2,4,2,2,2,1,1,2,Medicine,0,0
+2026/07/15 08:15:00 PM GMT+5:30,26.0,Female,Horizon Campus,Third Year,4–6 hours,5–6 hours,6–7 hours,Sometimes,Sometimes,2–3,5,4,4,Never,Sometimes,2,2,0,3,1,4,2,4,2,2,Agriculture,0,0
+2026/07/18 03:34:00 AM GMT+5:30,26.0,Female,Horizon Campus,Second Year,4–6 hours,1–2 hours,6–7 hours,Sometimes,Very Often,0–1,3,3,4,Once a week,Rarely,2,1,3,2,2,3,2,4,3,2,IT,0,0
+2026/07/08 07:37:00 PM GMT+5:30,24.0,Female,Horizon Campus,Fourth Year,More than 8 hours,Less than 1 hour,5–6 hours,Often,Often,2–3,4,5,5,Once a week,Sometimes,2,2,3,3,1,2,2,2,3,2,IT,0,0
+2026/07/07 06:28:00 PM GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,2–4 hours,1–2 hours,5–6 hours,Rarely,Often,More than 5,5,5,3,Once a week,Sometimes,3,0,2,2,2,3,2,2,1,2,IT,0,0
+2026/07/12 07:12:00 PM GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Always,Sometimes,0–1,4,2,3,Never,Never,3,0,2,1,2,2,2,3,2,0,IT,0,0
+2026/07/21 03:25:00 PM GMT+5:30,24.0,Female,University of Sri Jayewardenepura,Third Year,4–6 hours,5–6 hours,5–6 hours,Always,Often,2–3,4,5,1,Never,Sometimes,2,2,3,3,1,1,3,2,2,2,Management,0,0
+2026/07/07 11:13:00 PM GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,5–6 hours,6–7 hours,Sometimes,Often,2–3,4,3,3,Once a week,Often,2,2,1,2,2,2,2,4,3,2,Medicine,0,0
+2026/07/16 01:34:00 PM GMT+5:30,25.0,Female,Rajarata University of Sri Lanka,Third Year,2–4 hours,3–4 hours,6–7 hours,Sometimes,Very Often,2–3,4,4,4,Never,Sometimes,2,1,3,1,2,2,2,2,1,2,Medicine,0,0
+2026/07/22 12:14:00 AM GMT+5:30,29.0,Female,University of Peradeniya,Fourth Year,2–4 hours,Less than 1 hour,5–6 hours,Always,Very Often,2–3,3,4,4,2–3 times a week,Sometimes,2,0,1,3,2,2,2,2,2,3,IT,0,1
+2026/07/16 08:38:00 AM GMT+5:30,20.0,Female,Horizon Campus,Fourth Year,4–6 hours,Less than 1 hour,5–6 hours,Always,Sometimes,2–3,4,5,4,Never,Never,2,2,3,2,2,2,1,2,2,1,IT,0,0
+2026/07/04 07:18:00 AM GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,4–6 hours,3–4 hours,More than 8 hours,Always,Often,2–3,2,4,3,Once a week,Sometimes,4,2,4,3,3,4,1,2,3,2,Science,0,0
+2026/07/17 10:06:00 PM GMT+5:30,21.0,Male,Horizon Campus,Other,4–6 hours,More than 6 hours,6–7 hours,Always,Sometimes,2–3,2,5,3,More than 3 times a week,Often,1,3,1,2,1,2,2,1,1,2,IT,0,0
+2026/07/11 04:01:00 PM GMT+5:30,23.0,Female,University of Kelaniya,Other,2–4 hours,3–4 hours,6–7 hours,Sometimes,Often,0–1,5,5,3,Never,Sometimes,1,3,3,4,2,1,2,2,1,2,IT,0,0
+2026/07/15 09:50:00 AM GMT+5:30,27.0,Male,Horizon Campus,Other,2–4 hours,3–4 hours,5–6 hours,Often,Sometimes,0–1,4,5,4,Once a week,Often,4,2,0,4,3,1,0,2,0,2,IT,0,0
+2026/07/04 05:38:00 PM GMT+5:30,25.0,Female,University of Kelaniya,First Year,4–6 hours,3–4 hours,6–7 hours,Always,Sometimes,0–1,5,5,4,Never,Sometimes,3,4,2,0,3,2,2,2,2,2,IT,0,0
+2026/07/06 08:05:00 PM GMT+5:30,22.0,Female,Horizon Campus,Third Year,4–6 hours,Less than 1 hour,5–6 hours,Always,Sometimes,2–3,3,2,3,Once a week,Sometimes,4,2,1,3,2,2,2,3,2,2,Management,0,0
+2026/07/12 01:14:00 PM GMT+5:30,23.0,Male,University of Sri Jayewardenepura,Third Year,4–6 hours,5–6 hours,6–7 hours,Always,Often,2–3,5,2,4,Once a week,Often,2,2,4,3,2,2,2,2,3,2,Science,0,0
+2026/07/24 06:53:00 AM GMT+5:30,26.0,Male,Other,Third Year,Less than 2 hours,3–4 hours,7–8 hours,Always,Sometimes,0–1,4,5,5,Once a week,Never,3,2,3,4,4,1,2,3,1,3,IT,0,0
+2026/07/23 05:12:00 AM GMT+5:30,23.0,Female,Horizon Campus,Fourth Year,4–6 hours,1–2 hours,5–6 hours,Often,Often,2–3,5,3,3,Once a week,Never,2,2,3,2,1,2,2,3,2,2,IT,0,0
+2026/07/22 03:36:00 PM GMT+5:30,25.0,Female,General Sir John Kotelawala Defence University,Second Year,2–4 hours,5–6 hours,5–6 hours,Rarely,Sometimes,2–3,3,5,4,2–3 times a week,Often,3,2,3,3,3,2,4,3,2,0,Technology,0,0
+2026/07/11 06:56:00 AM GMT+5:30,25.0,Male,Wayamba University of Sri Lanka,Third Year,2–4 hours,3–4 hours,5–6 hours,Sometimes,Sometimes,0–1,3,4,4,Never,Often,4,3,3,3,3,2,3,4,4,4,Technology,0,0
+2026/07/09 05:46:00 PM GMT+5:30,23.0,Male,Horizon Campus,Second Year,6–8 hours,Less than 1 hour,5–6 hours,Always,Often,0–1,4,3,3,Never,Sometimes,2,2,3,2,2,1,2,4,2,3,Science,0,0
+2026/07/05 02:38:00 PM GMT+5:30,29.0,Female,Sri Lanka Institute of Information Technology (SLIIT),Third Year,4–6 hours,5–6 hours,5–6 hours,Sometimes,Sometimes,0–1,3,2,3,2–3 times a week,Sometimes,2,2,3,2,3,2,4,4,2,2,IT,0,1
+2026/07/09 06:32:00 PM GMT+5:30,26.0,Female,Other,Second Year,4–6 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,4,5,4,Once a week,Sometimes,1,2,2,1,2,2,2,2,3,2,IT,0,0
+2026/07/24 06:30:00 AM GMT+5:30,20.0,Female,Rajarata University of Sri Lanka,Third Year,2–4 hours,More than 6 hours,Less than 5 hours,Sometimes,Often,0–1,4,3,2,2–3 times a week,Sometimes,2,0,4,1,3,2,2,2,3,2,IT,0,0
+2026/07/17 04:51:00 AM GMT+5:30,25.0,Female,University of Moratuwa,Third Year,2–4 hours,1–2 hours,6–7 hours,Often,Sometimes,0–1,3,5,5,Once a week,Sometimes,3,2,3,2,2,2,3,2,4,3,Science,0,0
+2026/07/06 02:00:00 AM GMT+5:30,23.0,Female,Horizon Campus,Fourth Year,2–4 hours,More than 6 hours,5–6 hours,Always,Sometimes,0–1,4,1,4,2–3 times a week,Sometimes,1,2,3,2,2,1,3,4,2,2,IT,0,0
+2026/07/06 05:46:00 AM GMT+5:30,26.0,Female,Horizon Campus,Third Year,6–8 hours,5–6 hours,7–8 hours,Always,Sometimes,0–1,4,5,5,Once a week,Sometimes,3,3,2,2,2,2,2,4,3,4,IT,0,0
+2026/07/20 10:43:00 PM GMT+5:30,23.0,Female,Horizon Campus,Third Year,4–6 hours,5–6 hours,5–6 hours,Always,Rarely,0–1,4,4,3,2–3 times a week,Rarely,3,0,3,1,0,1,2,1,3,0,Science,0,0
+2026/07/15 08:24:00 AM GMT+5:30,24.0,Male,University of Sri Jayewardenepura,Third Year,Less than 2 hours,3–4 hours,7–8 hours,Always,Often,2–3,3,4,4,2–3 times a week,Sometimes,2,2,3,2,2,3,3,2,3,2,Science,0,0
+2026/07/22 08:39:00 PM GMT+5:30,26.0,Female,University of Kelaniya,Other,More than 8 hours,Less than 1 hour,5–6 hours,Always,Often,2–3,3,4,4,Once a week,Sometimes,2,3,3,4,2,2,3,4,3,3,Science,0,0
+2026/07/05 08:47:00 PM GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,4–6 hours,1–2 hours,7–8 hours,Often,Often,0–1,5,5,3,Never,Sometimes,4,4,1,2,2,3,3,2,2,2,Science,0,0
+2026/07/21 02:23:00 PM GMT+5:30,22.0,Male,Horizon Campus,Third Year,Less than 2 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,0–1,3,2,4,Never,Often,3,3,4,3,2,2,2,2,2,2,Management,0,0
+2026/07/16 09:55:00 AM GMT+5:30,24.0,Male,University of Peradeniya,Fourth Year,2–4 hours,3–4 hours,Less than 5 hours,Often,Sometimes,0–1,4,5,4,Never,Rarely,3,2,2,2,1,2,2,2,2,2,IT,0,0
+2026/07/21 05:14:00 PM GMT+5:30,23.0,Female,National Institute of Business Management (NIBM),Other,2–4 hours,1–2 hours,More than 8 hours,Always,Often,2–3,5,4,3,Never,Rarely,2,3,4,4,3,3,2,2,2,2,IT,0,0
+2026/07/07 03:40:00 AM GMT+5:30,23.0,Female,Other,Third Year,2–4 hours,1–2 hours,5–6 hours,Rarely,Sometimes,2–3,5,5,2,Never,Sometimes,2,2,2,2,2,2,2,3,3,4,IT,0,0
+2026/07/07 05:07:00 AM GMT+5:30,28.0,Female,Horizon Campus,Third Year,More than 8 hours,5–6 hours,7–8 hours,Rarely,Sometimes,4–5,4,5,3,Once a week,Sometimes,1,3,4,3,2,3,4,2,1,2,Medicine,0,0
+2026/07/19 07:18:00 AM GMT+5:30,25.0,Female,Horizon Campus,Third Year,2–4 hours,Less than 1 hour,5–6 hours,Sometimes,Sometimes,0–1,5,4,3,Once a week,Sometimes,2,4,4,2,1,2,2,3,4,2,Technology,0,0
+2026/07/15 02:34:00 AM GMT+5:30,22.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Never,Sometimes,4–5,2,5,3,Once a week,Sometimes,3,2,2,3,2,4,2,3,4,3,Medicine,0,0
+2026/07/16 07:15:00 PM GMT+5:30,26.0,Female,Sabaragamuwa University of Sri Lanka,Other,6–8 hours,5–6 hours,5–6 hours,Often,Never,0–1,4,5,5,Once a week,Sometimes,2,1,3,1,2,3,1,1,2,3,Humanities_Social_Education,0,0
+2026/07/08 01:10:00 AM GMT+5:30,29.0,Female,Horizon Campus,Third Year,More than 8 hours,3–4 hours,6–7 hours,Rarely,Sometimes,0–1,4,5,4,Never,Sometimes,3,2,3,2,2,2,2,3,2,2,Science,0,1
+2026/07/10 07:45:00 AM GMT+5:30,27.0,Female,University of Sri Jayewardenepura,Fourth Year,4–6 hours,Less than 1 hour,5–6 hours,Always,Often,0–1,4,5,3,Never,Sometimes,1,1,2,1,2,2,2,2,2,4,IT,0,0
+2026/07/16 07:10:00 AM GMT+5:30,21.0,Female,Horizon Campus,Other,6–8 hours,Less than 1 hour,6–7 hours,Always,Sometimes,4–5,4,3,4,Never,Never,3,3,1,3,2,1,1,1,2,3,Medicine,0,0
+2026/07/24 03:27:00 AM GMT+5:30,23.0,Female,University of Sri Jayewardenepura,Third Year,6–8 hours,1–2 hours,6–7 hours,Always,Never,0–1,2,3,4,Once a week,Never,2,2,2,2,3,1,1,4,2,2,Medicine,0,0
+2026/07/18 02:16:00 AM GMT+5:30,27.0,Female,University of Ruhuna,Fourth Year,6–8 hours,5–6 hours,Less than 5 hours,Always,Sometimes,0–1,5,5,5,Never,Sometimes,3,2,4,2,3,2,3,2,3,2,Medicine,0,0
+2026/07/13 10:05:00 PM GMT+5:30,23.0,Female,University of Peradeniya,Third Year,2–4 hours,3–4 hours,Less than 5 hours,Always,Sometimes,2–3,5,5,4,Never,Sometimes,4,0,0,2,1,4,2,3,0,2,Management,0,0
+2026/07/09 02:40:00 AM GMT+5:30,25.0,Female,Horizon Campus,First Year,More than 8 hours,1–2 hours,6–7 hours,Often,Often,2–3,3,5,4,Once a week,Sometimes,2,2,3,3,2,2,3,2,2,1,Technology,0,0
+2026/07/16 01:31:00 PM GMT+5:30,26.0,Male,Horizon Campus,Fourth Year,4–6 hours,Less than 1 hour,5–6 hours,Sometimes,Often,0–1,4,5,2,2–3 times a week,Sometimes,1,2,4,4,2,2,1,2,2,3,Humanities_Social_Education,0,0
+2026/07/21 11:28:00 AM GMT+5:30,22.0,Female,Horizon Campus,Other,4–6 hours,1–2 hours,5–6 hours,Often,Sometimes,2–3,5,4,3,Never,Never,3,2,4,2,2,4,2,3,4,1,IT,0,0
+2026/07/20 09:38:00 PM GMT+5:30,24.0,Male,Rajarata University of Sri Lanka,Fourth Year,4–6 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,5,4,3,Once a week,Sometimes,1,3,0,3,0,4,2,1,2,2,IT,0,0
+2026/07/19 11:45:00 PM GMT+5:30,18.0,Male,Sri Lanka Institute of Information Technology (SLIIT),Third Year,More than 8 hours,1–2 hours,5–6 hours,Sometimes,Sometimes,2–3,5,5,4,Once a week,Often,3,3,0,4,3,3,4,2,1,2,Technology,0,1
+2026/07/08 08:51:00 PM GMT+5:30,22.0,Female,University of Kelaniya,Fourth Year,2–4 hours,Less than 1 hour,5–6 hours,Often,Sometimes,2–3,1,5,1,2–3 times a week,Sometimes,2,2,4,1,3,1,2,1,4,2,Medicine,0,0
+2026/07/20 12:21:00 PM GMT+5:30,24.0,Female,University of Kelaniya,First Year,4–6 hours,3–4 hours,5–6 hours,Always,Sometimes,2–3,3,5,3,More than 3 times a week,Very Often,2,2,3,3,2,2,3,1,1,2,Humanities_Social_Education,0,0
+2026/07/11 09:14:00 AM GMT+5:30,22.0,Female,University of Ruhuna,Fourth Year,More than 8 hours,3–4 hours,More than 8 hours,Often,Often,2–3,5,3,3,Never,Sometimes,2,2,4,1,3,1,2,4,2,3,Humanities_Social_Education,0,0
+2026/07/13 08:54:00 AM GMT+5:30,28.0,Female,Horizon Campus,Other,More than 8 hours,5–6 hours,6–7 hours,Always,Sometimes,4–5,3,2,3,Never,Often,1,2,3,3,2,2,2,2,3,1,IT,0,0
+2026/07/19 01:49:00 PM GMT+5:30,21.0,Male,Sabaragamuwa University of Sri Lanka,Second Year,More than 8 hours,Less than 1 hour,5–6 hours,Always,Sometimes,2–3,4,5,4,2–3 times a week,Sometimes,4,2,4,2,3,2,2,4,3,2,IT,0,0
+2026/07/19 01:55:00 AM GMT+5:30,23.0,Female,Horizon Campus,Third Year,More than 8 hours,3–4 hours,6–7 hours,Sometimes,Often,2–3,4,5,3,Once a week,Rarely,3,4,1,1,4,2,1,2,3,2,IT,0,0
+2026/07/12 06:56:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Always,Never,2–3,4,3,4,Once a week,Sometimes,2,2,2,3,0,2,2,3,3,2,IT,0,0
+2026/07/14 06:15:00 AM GMT+5:30,28.0,Female,Other,Fourth Year,2–4 hours,3–4 hours,6–7 hours,Often,Often,0–1,5,2,1,Once a week,Sometimes,2,2,2,3,3,2,3,2,2,2,IT,0,0
+2026/07/16 01:39:00 AM GMT+5:30,21.0,Female,Horizon Campus,Third Year,6–8 hours,3–4 hours,6–7 hours,Sometimes,Sometimes,2–3,5,5,4,Once a week,Never,4,2,2,3,2,2,3,2,3,2,Medicine,0,0
+2026/07/14 01:34:00 PM GMT+5:30,27.0,Male,Horizon Campus,Second Year,More than 8 hours,1–2 hours,6–7 hours,Sometimes,Sometimes,4–5,5,5,3,More than 3 times a week,Never,3,0,2,1,4,2,3,1,3,2,IT,0,0
+2026/07/07 01:05:00 AM GMT+5:30,24.0,Female,University of Colombo,Second Year,2–4 hours,5–6 hours,6–7 hours,Always,Rarely,0–1,2,5,4,More than 3 times a week,Often,2,0,3,4,3,2,4,2,4,2,Science,0,0
+2026/07/09 10:23:00 PM GMT+5:30,22.0,Female,Horizon Campus,Third Year,2–4 hours,5–6 hours,More than 8 hours,Always,Sometimes,0–1,5,4,3,2–3 times a week,Rarely,3,4,4,2,2,3,2,2,4,2,Science,0,0
+2026/07/09 09:42:00 AM GMT+5:30,25.0,Male,University of Kelaniya,Third Year,2–4 hours,5–6 hours,7–8 hours,Always,Sometimes,2–3,5,5,2,Never,Often,2,2,1,2,2,2,2,2,3,2,Humanities_Social_Education,0,0
+2026/07/05 05:58:00 PM GMT+5:30,25.0,Female,Horizon Campus,Other,4–6 hours,3–4 hours,6–7 hours,Often,Often,0–1,4,5,4,2–3 times a week,Sometimes,2,2,1,3,2,2,4,3,2,2,Management,0,0
+2026/07/11 11:38:00 PM GMT+5:30,23.0,Female,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,6–7 hours,Often,Often,2–3,4,4,3,Never,Sometimes,3,2,3,3,2,1,3,2,4,3,IT,0,0
+2026/07/04 06:29:00 PM GMT+5:30,25.0,Female,Horizon Campus,Other,Less than 2 hours,1–2 hours,6–7 hours,Always,Often,More than 5,5,5,4,Never,Sometimes,2,2,4,2,2,4,2,1,3,2,IT,0,0
+2026/07/17 04:17:00 PM GMT+5:30,24.0,Female,Horizon Campus,Third Year,More than 8 hours,More than 6 hours,5–6 hours,Rarely,Sometimes,0–1,5,3,4,2–3 times a week,Rarely,0,3,4,4,3,1,2,2,1,0,IT,0,0
+2026/07/16 09:30:00 PM GMT+5:30,25.0,Female,NSBM Green University,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,2–3,3,5,4,Never,Sometimes,2,4,3,3,2,2,1,2,1,2,IT,0,0
+2026/07/09 12:40:00 PM GMT+5:30,26.0,Female,Horizon Campus,Third Year,4–6 hours,3–4 hours,5–6 hours,Always,Never,2–3,4,5,3,Never,Sometimes,2,1,3,2,2,1,2,2,2,2,Humanities_Social_Education,0,0
+2026/07/17 04:22:00 PM GMT+5:30,28.0,Female,University of Sri Jayewardenepura,Fourth Year,4–6 hours,5–6 hours,6–7 hours,Often,Sometimes,2–3,4,4,5,Never,Rarely,2,1,3,2,2,2,3,3,1,2,Management,0,0
+2026/07/09 07:16:00 AM GMT+5:30,22.0,Female,Other,Fourth Year,2–4 hours,3–4 hours,6–7 hours,Often,Often,0–1,5,5,2,2–3 times a week,Often,4,2,1,2,1,2,2,2,2,2,Management,0,0
+2026/07/04 10:55:00 AM GMT+5:30,29.0,Female,University of Ruhuna,Fourth Year,More than 8 hours,5–6 hours,5–6 hours,Always,Often,2–3,4,2,4,Once a week,Sometimes,2,3,2,1,3,2,2,2,2,1,Science,0,1
+2026/07/05 09:46:00 PM GMT+5:30,20.0,Male,CINEC Campus,Third Year,4–6 hours,3–4 hours,7–8 hours,Always,Often,0–1,4,4,1,Once a week,Sometimes,3,2,4,2,2,1,3,4,3,2,Medicine,0,0
+2026/07/20 09:34:00 AM GMT+5:30,24.0,Female,University of Colombo,Other,6–8 hours,3–4 hours,7–8 hours,Sometimes,Sometimes,2–3,3,5,3,Never,Sometimes,2,2,3,2,4,2,2,3,2,0,Medicine,0,0
+2026/07/18 03:39:00 PM GMT+5:30,26.0,Female,Horizon Campus,Second Year,More than 8 hours,Less than 1 hour,Less than 5 hours,Often,Sometimes,0–1,4,3,4,2–3 times a week,Sometimes,2,4,4,3,4,2,2,2,4,4,IT,0,0
+2026/07/05 03:09:00 PM GMT+5:30,25.0,Female,Horizon Campus,Third Year,2–4 hours,3–4 hours,6–7 hours,Often,Often,0–1,5,5,4,2–3 times a week,Sometimes,2,2,3,2,2,2,3,2,2,3,Humanities_Social_Education,0,0
+2026/07/09 12:01:00 PM GMT+5:30,23.0,Male,Horizon Campus,Third Year,6–8 hours,Less than 1 hour,7–8 hours,Often,Very Often,0–1,4,3,4,Never,Rarely,4,2,2,2,2,1,2,1,2,3,IT,0,0
+2026/07/05 07:48:00 PM GMT+5:30,24.0,Female,University of Kelaniya,Third Year,2–4 hours,3–4 hours,5–6 hours,Always,Rarely,0–1,4,5,4,Once a week,Rarely,1,2,2,2,1,3,3,2,3,3,Science,0,0
+2026/07/05 12:09:00 AM GMT+5:30,23.0,Female,Horizon Campus,Fourth Year,6–8 hours,5–6 hours,Less than 5 hours,Always,Sometimes,2–3,5,4,3,Never,Rarely,2,3,3,3,1,2,1,2,4,2,Science,0,0
+2026/07/23 08:28:00 PM GMT+5:30,23.0,Male,Other,Fourth Year,4–6 hours,5–6 hours,5–6 hours,Often,Sometimes,2–3,3,5,3,More than 3 times a week,Sometimes,3,4,4,3,0,2,1,1,1,3,IT,0,0
+2026/07/11 07:27:00 PM GMT+5:30,26.0,Male,University of Kelaniya,Fourth Year,6–8 hours,1–2 hours,Less than 5 hours,Always,Rarely,0–1,5,5,4,Once a week,Often,1,2,3,2,4,2,2,3,4,2,IT,0,0
+2026/07/05 09:41:00 PM GMT+5:30,25.0,Male,Horizon Campus,Third Year,2–4 hours,3–4 hours,5–6 hours,Always,Often,2–3,3,3,3,More than 3 times a week,Sometimes,2,4,4,3,3,3,2,3,4,2,Management,0,0
+2026/07/15 11:47:00 PM GMT+5:30,23.0,Female,Wayamba University of Sri Lanka,Third Year,More than 8 hours,3–4 hours,7–8 hours,Sometimes,Very Often,2–3,4,3,5,Never,Sometimes,4,2,2,0,3,2,3,2,2,2,IT,0,0
+2026/07/09 04:58:00 PM GMT+5:30,26.0,Female,Horizon Campus,Fourth Year,2–4 hours,3–4 hours,7–8 hours,Rarely,Sometimes,2–3,3,5,3,2–3 times a week,Often,2,2,2,2,2,1,4,2,2,3,Technology,0,0
+2026/07/10 03:05:00 PM GMT+5:30,25.0,Male,Horizon Campus,Fourth Year,2–4 hours,3–4 hours,5–6 hours,Sometimes,Often,2–3,4,5,3,2–3 times a week,Sometimes,1,4,3,2,2,2,1,3,2,4,IT,0,0
+2026/07/19 12:21:00 PM GMT+5:30,26.0,Male,University of Colombo,First Year,4–6 hours,5–6 hours,6–7 hours,Sometimes,Often,2–3,3,3,4,Once a week,Sometimes,4,3,3,2,2,3,1,2,3,2,Management,0,0
+2026/07/15 08:06:00 AM GMT+5:30,26.0,Female,Other,Third Year,6–8 hours,More than 6 hours,More than 8 hours,Always,Often,4–5,5,2,4,More than 3 times a week,Often,1,0,1,3,3,2,2,3,4,1,Medicine,0,0
