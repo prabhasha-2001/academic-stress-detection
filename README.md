@@ -2,62 +2,62 @@
 
 ## Overview
 
-This research project investigates whether digital behavior and academic lifestyle indicators can be used to predict the stress levels of university students using machine learning.
+This project is developed for the **IT41043 – Intelligent Systems** module at **Horizon Campus**.
 
-The study focuses on developing a machine learning-based prediction system using behavioral and academic features collected through a structured questionnaire.
+The objective of this research is to develop a machine learning-based system capable of predicting the academic stress level of university students using digital behavior indicators collected through a Google Forms survey.
 
-Three classical machine learning algorithms are compared:
+The study compares three classical machine learning algorithms:
 
-* Logistic Regression
-* Decision Tree
-* Random Forest
+- Logistic Regression
+- Decision Tree
+- Random Forest
 
-The models use features such as screen time, sleep duration, study hours, assignment workload, exercise frequency, mood swings, and social media usage.
+The models are trained using behavioral and academic features such as screen time, sleep duration, study hours, assignment workload, exercise frequency, mood swings, and social media usage.
 
-Stress levels are determined using the **Perceived Stress Scale (PSS-10)**.
+Stress labels are generated using the **Perceived Stress Scale (PSS-10)**.
 
 ---
 
 # Research Objective
 
-The main objective of this research is to determine whether simple digital behavior and academic lifestyle indicators can accurately predict stress levels among university students.
+The main objective of this project is to determine whether simple digital behavior indicators can accurately predict academic stress levels among university students.
 
-The research aims to develop an affordable, interpretable, and data-driven machine learning approach that can support early identification of students experiencing higher levels of academic stress.
+The project focuses on developing an affordable and interpretable machine learning solution suitable for the Sri Lankan higher education context.
 
 ---
 
 # Dataset
 
-The dataset is collected using a structured online questionnaire.
+The dataset is collected using **Google Forms**.
 
 ### Target Participants
 
-* Undergraduate university students
-* Approximately 350 participants
+- Undergraduate students in Sri Lankan universities
+- Approximately 350 responses
 
 ### Features
 
-* Age
-* Gender
-* Year of Study
-* Degree Program
-* Daily Screen Time
-* Sleep Duration
-* Assignment Load
-* Daily Self-Study Hours
-* Social Media Usage
-* Physical Exercise Frequency
-* Mood Swing Frequency
+- Age
+- Gender
+- Year of Study
+- Degree Program
+- Daily Screen Time
+- Sleep Duration
+- Assignment Load
+- Daily Self Study Hours
+- Social Media Usage
+- Physical Exercise Frequency
+- Mood Swing Frequency
 
 ### Target Variable
 
-**Stress Level**
+Stress Level
 
-* Low Stress
-* Moderate Stress
-* High Stress
+- Low Stress
+- Moderate Stress
+- High Stress
 
-The stress categories are generated based on the **PSS-10 questionnaire score**.
+The target labels are calculated using the **PSS-10 questionnaire**.
 
 ---
 
@@ -67,41 +67,22 @@ The following supervised learning algorithms are compared.
 
 ## Logistic Regression
 
-Logistic Regression is used as a baseline classification model because of its simplicity, interpretability, and suitability for multi-class classification.
+Used as the baseline model because of its simplicity and interpretability.
 
 ## Decision Tree
 
-Decision Tree provides interpretable decision rules and can identify relationships between behavioral factors and stress levels.
+Provides explainable decision rules and is suitable for educational applications.
 
 ## Random Forest
 
-Random Forest is an ensemble learning algorithm that combines multiple decision trees to improve prediction performance and reduce overfitting.
-
----
-
-# Research Workflow
-
-The research workflow consists of the following stages:
-
-1. Data Collection
-2. Data Cleaning
-3. PSS-10 Score Calculation
-4. Feature Engineering
-5. Feature Encoding
-6. Feature Normalization
-7. Stratified 10-Fold Cross Validation
-8. Model Training
-9. Model Comparison
-10. Performance Evaluation
-11. Stress Level Prediction
+An ensemble learning algorithm capable of improving prediction accuracy while reducing overfitting.
 
 ---
 
 # Project Structure
 
-```text
+```
 academic-stress-detection/
-
 │
 ├── README.md
 ├── requirements.txt
@@ -149,86 +130,85 @@ academic-stress-detection/
 
 The preprocessing pipeline includes:
 
-* Removing duplicate responses
-* Handling missing values
-* Calculating PSS-10 scores
-* Generating stress level labels
-* Feature encoding
-* Feature normalization
-* Preparing the dataset for machine learning
+- Removing duplicate responses
+- Handling missing values
+- PSS-10 score calculation
+- Feature encoding
+- Feature normalization
+- Dataset preparation for machine learning
 
 ---
 
 # Model Evaluation
 
-The models are evaluated using:
+The models will be evaluated using:
 
-* Accuracy
-* Precision
-* Recall
-* F1-Score
-* Macro F1 Score
-* Weighted F1 Score
-* Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Macro F1 Score
+- Weighted F1 Score
+- Confusion Matrix
 
-### Validation Strategy
+Validation Strategy
 
-* Stratified 10-Fold Cross Validation
-* 80/20 Train-Test Split
-
-The performance of the three models will be compared to identify the most suitable model for predicting student stress levels.
+- Stratified 10-Fold Cross Validation
+- 80/20 Train-Test Split
 
 ---
 
 # Technologies Used
 
-* Python 3
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+- Python 3
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
 # Current Progress
 
-* Literature Review Completed
-* Research Methodology Completed
-* Questionnaire Designed
-* Repository Structure Created
-* Data Preprocessing Scripts Prepared
-* Machine Learning Pipeline Designed
+✔ Literature Review Completed
 
-### Remaining Tasks
+✔ Research Methodology Completed
 
-* Dataset Collection
-* Data Preprocessing
-* Exploratory Data Analysis
-* Model Training
-* Cross-Validation
-* Performance Evaluation
-* Model Comparison
-* Final Model Selection
+✔ Google Form Designed
+
+✔ Repository Structure Created
+
+✔ Data Preprocessing Scripts Prepared
+
+✔ Machine Learning Pipeline Designed
+
+- Dataset Collection
+
+- Model Training
+
+- Performance Evaluation
+
+- Final Model Selection
 
 ---
 
 # Installation
 
-### Clone the Repository
+Clone the repository
 
 ```bash
 git clone https://github.com/prabhasha-2001/academic-stress-detection.git
 ```
 
-### Move into the Project Directory
+Move into the project directory
 
 ```bash
 cd academic-stress-detection
 ```
 
-### Install Dependencies
+Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -236,19 +216,38 @@ pip install -r requirements.txt
 
 ---
 
-# Research Focus
+# Authors
 
-This research focuses on the relationship between students' digital behavior, academic lifestyle, and perceived stress levels.
+### M.T. Prabhasha Dilshani
 
-The study aims to evaluate whether commonly available behavioral indicators can provide useful information for predicting academic stress using interpretable machine learning techniques.
+Student ID: ITBIN-2313-0026
 
----
+Faculty of Information Technology
 
-# Ethical Considerations
-
-The research data is collected through a structured questionnaire. Participant privacy and confidentiality should be maintained throughout the data collection, processing, and analysis stages.
-
-The machine learning predictions are intended for research purposes and should not be considered a clinical diagnosis of mental health conditions.
+Horizon Campus
 
 ---
 
+### M.U. Sandamali Wanasinghe
+
+Student ID: ITBIN-2313-0122
+
+Faculty of Information Technology
+
+Horizon Campus
+
+---
+
+# Module
+
+**IT41043 – Intelligent Systems**
+
+Academic Year 2026
+
+Third Year – Second Semester
+
+---
+
+# License
+
+This project is developed for academic and research purposes only.
